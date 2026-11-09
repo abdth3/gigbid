@@ -1,0 +1,2516 @@
+[
+  {
+    "proposal_id": "data_analyst-prop-001",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and SQL systems, including dbt Core Warehouse Modernization.",
+    "date": "2025-07-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-002",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-003",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-25"
+  },
+  {
+    "proposal_id": "data_analyst-prop-004",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech executive build, I previously delivered Executive Revenue & Unit Economics BI (Replaced 12 manual weekly spreadsheets with live automated refresh.).",
+    "date": "2025-09-05"
+  },
+  {
+    "proposal_id": "data_analyst-prop-005",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing marketing build, I previously delivered Marketing Attribution Multi-Touch Model (Reallocated 22% of ad spend toward higher-LTV channels.).",
+    "date": "2025-03-06"
+  },
+  {
+    "proposal_id": "data_analyst-prop-006",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and pandas systems, including Supply Chain Lead-Time Variance Report.",
+    "date": "2025-06-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-007",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-008",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-009",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce customer build, I previously delivered Customer Segmentation with RFM & K-Means (Boosted email campaign repeat purchase rate by 9%.).",
+    "date": "2025-06-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-010",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-011",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and A/B Testing systems, including Subscription Pricing Elasticity Study.",
+    "date": "2025-10-05"
+  },
+  {
+    "proposal_id": "data_analyst-prop-012",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-013",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-03"
+  },
+  {
+    "proposal_id": "data_analyst-prop-014",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-015",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-25"
+  },
+  {
+    "proposal_id": "data_analyst-prop-016",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-017",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-09"
+  },
+  {
+    "proposal_id": "data_analyst-prop-018",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Python systems, including SaaS Cohort Retention & Churn Dashboard.",
+    "date": "2025-10-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-019",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-020",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech executive build, I previously delivered Executive Revenue & Unit Economics BI (Replaced 12 manual weekly spreadsheets with live automated refresh.).",
+    "date": "2025-03-05"
+  },
+  {
+    "proposal_id": "data_analyst-prop-021",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-022",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and pandas systems, including Supply Chain Lead-Time Variance Report.",
+    "date": "2025-01-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-023",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-024",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-025",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-09"
+  },
+  {
+    "proposal_id": "data_analyst-prop-026",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-027",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS subscription build, I previously delivered Subscription Pricing Elasticity Study (Supported tier restructure increasing ARPU by 8%.).",
+    "date": "2025-10-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-028",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-029",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-030",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce inventory build, I previously delivered Inventory Aging & Dead-Stock Dashboard (Freed $85k in working capital by flagging slow-moving SKUs.).",
+    "date": "2025-06-15"
+  },
+  {
+    "proposal_id": "data_analyst-prop-031",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-15"
+  },
+  {
+    "proposal_id": "data_analyst-prop-032",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-23"
+  },
+  {
+    "proposal_id": "data_analyst-prop-033",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-034",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-035",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar A/B Testing and Python systems, including Checkout Funnel A/B Experiment Analysis.",
+    "date": "2025-07-16"
+  },
+  {
+    "proposal_id": "data_analyst-prop-036",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PowerBI and SQL systems, including Executive Revenue & Unit Economics BI.",
+    "date": "2025-11-06"
+  },
+  {
+    "proposal_id": "data_analyst-prop-037",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing marketing build, I previously delivered Marketing Attribution Multi-Touch Model (Reallocated 22% of ad spend toward higher-LTV channels.).",
+    "date": "2025-10-15"
+  },
+  {
+    "proposal_id": "data_analyst-prop-038",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and pandas systems, including Supply Chain Lead-Time Variance Report.",
+    "date": "2025-02-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-039",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS airflow build, I previously delivered Airflow ETL Pipeline for Stripe & HubSpot (99.8% SLA across 180 daily sync runs.).",
+    "date": "2025-11-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-040",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-041",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-042",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech financial build, I previously delivered Financial Reconciliation & Variance Audit (Automated monthly close checks across 400k ledger rows.).",
+    "date": "2025-10-19"
+  },
+  {
+    "proposal_id": "data_analyst-prop-043",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-16"
+  },
+  {
+    "proposal_id": "data_analyst-prop-044",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-27"
+  },
+  {
+    "proposal_id": "data_analyst-prop-045",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-046",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-047",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS support build, I previously delivered Support SLA & Ticket Backlog Analytics (Reduced median first-response time by 31%.).",
+    "date": "2025-11-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-048",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and pandas systems, including Survey & NPS Text Sentiment Aggregation.",
+    "date": "2025-09-01"
+  },
+  {
+    "proposal_id": "data_analyst-prop-049",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and SQL systems, including dbt Core Warehouse Modernization.",
+    "date": "2025-03-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-050",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-051",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce checkout build, I previously delivered Checkout Funnel A/B Experiment Analysis (Evaluated 140k sessions; prevented premature rollout of underpowered variant.).",
+    "date": "2025-05-01"
+  },
+  {
+    "proposal_id": "data_analyst-prop-052",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-25"
+  },
+  {
+    "proposal_id": "data_analyst-prop-053",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-054",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-15"
+  },
+  {
+    "proposal_id": "data_analyst-prop-055",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-056",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS looker build, I previously delivered Looker Semantic Layer for Product Analytics (Unified 4 conflicting definitions of 'Active User'.).",
+    "date": "2025-05-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-057",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce customer build, I previously delivered Customer Segmentation with RFM & K-Means (Boosted email campaign repeat purchase rate by 9%.).",
+    "date": "2025-12-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-058",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-09"
+  },
+  {
+    "proposal_id": "data_analyst-prop-059",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and A/B Testing systems, including Subscription Pricing Elasticity Study.",
+    "date": "2025-09-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-060",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and Python systems, including Warehouse Data Quality Monitoring.",
+    "date": "2025-07-07"
+  },
+  {
+    "proposal_id": "data_analyst-prop-061",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing ad build, I previously delivered Ad Spend & ROAS Daily Tracker (Consolidated Meta, Google Ads, and TikTok metrics.).",
+    "date": "2025-10-10"
+  },
+  {
+    "proposal_id": "data_analyst-prop-062",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Tableau systems, including Inventory Aging & Dead-Stock Dashboard.",
+    "date": "2025-04-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-063",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-064",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-26"
+  },
+  {
+    "proposal_id": "data_analyst-prop-065",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and SQL systems, including dbt Core Warehouse Modernization.",
+    "date": "2025-04-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-066",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-19"
+  },
+  {
+    "proposal_id": "data_analyst-prop-067",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-068",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech executive build, I previously delivered Executive Revenue & Unit Economics BI (Replaced 12 manual weekly spreadsheets with live automated refresh.).",
+    "date": "2025-02-22"
+  },
+  {
+    "proposal_id": "data_analyst-prop-069",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-06"
+  },
+  {
+    "proposal_id": "data_analyst-prop-070",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-071",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-06"
+  },
+  {
+    "proposal_id": "data_analyst-prop-072",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-073",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce customer build, I previously delivered Customer Segmentation with RFM & K-Means (Boosted email campaign repeat purchase rate by 9%.).",
+    "date": "2025-10-06"
+  },
+  {
+    "proposal_id": "data_analyst-prop-074",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Excel systems, including Financial Reconciliation & Variance Audit.",
+    "date": "2025-10-08"
+  },
+  {
+    "proposal_id": "data_analyst-prop-075",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-076",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-077",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing ad build, I previously delivered Ad Spend & ROAS Daily Tracker (Consolidated Meta, Google Ads, and TikTok metrics.).",
+    "date": "2025-09-04"
+  },
+  {
+    "proposal_id": "data_analyst-prop-078",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-079",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PostgreSQL and SQL systems, including Support SLA & Ticket Backlog Analytics.",
+    "date": "2025-11-16"
+  },
+  {
+    "proposal_id": "data_analyst-prop-080",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-081",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-082",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Python systems, including SaaS Cohort Retention & Churn Dashboard.",
+    "date": "2025-08-25"
+  },
+  {
+    "proposal_id": "data_analyst-prop-083",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-08"
+  },
+  {
+    "proposal_id": "data_analyst-prop-084",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech executive build, I previously delivered Executive Revenue & Unit Economics BI (Replaced 12 manual weekly spreadsheets with live automated refresh.).",
+    "date": "2025-05-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-085",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-086",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-27"
+  },
+  {
+    "proposal_id": "data_analyst-prop-087",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS airflow build, I previously delivered Airflow ETL Pipeline for Stripe & HubSpot (99.8% SLA across 180 daily sync runs.).",
+    "date": "2025-08-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-088",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Looker and SQL systems, including Looker Semantic Layer for Product Analytics.",
+    "date": "2025-01-07"
+  },
+  {
+    "proposal_id": "data_analyst-prop-089",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-090",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-26"
+  },
+  {
+    "proposal_id": "data_analyst-prop-091",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS subscription build, I previously delivered Subscription Pricing Elasticity Study (Supported tier restructure increasing ARPU by 8%.).",
+    "date": "2025-06-07"
+  },
+  {
+    "proposal_id": "data_analyst-prop-092",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and Python systems, including Warehouse Data Quality Monitoring.",
+    "date": "2025-02-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-093",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar BigQuery and SQL systems, including Ad Spend & ROAS Daily Tracker.",
+    "date": "2025-02-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-094",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-04"
+  },
+  {
+    "proposal_id": "data_analyst-prop-095",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PostgreSQL and SQL systems, including Support SLA & Ticket Backlog Analytics.",
+    "date": "2025-03-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-096",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-27"
+  },
+  {
+    "proposal_id": "data_analyst-prop-097",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and SQL systems, including dbt Core Warehouse Modernization.",
+    "date": "2025-12-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-098",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-08"
+  },
+  {
+    "proposal_id": "data_analyst-prop-099",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-100",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PowerBI and SQL systems, including Executive Revenue & Unit Economics BI.",
+    "date": "2025-01-20"
+  },
+  {
+    "proposal_id": "data_analyst-prop-101",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and SQL systems, including Marketing Attribution Multi-Touch Model.",
+    "date": "2025-03-23"
+  },
+  {
+    "proposal_id": "data_analyst-prop-102",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-10"
+  },
+  {
+    "proposal_id": "data_analyst-prop-103",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-02"
+  },
+  {
+    "proposal_id": "data_analyst-prop-104",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-15"
+  },
+  {
+    "proposal_id": "data_analyst-prop-105",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and pandas systems, including Customer Segmentation with RFM & K-Means.",
+    "date": "2025-09-04"
+  },
+  {
+    "proposal_id": "data_analyst-prop-106",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-16"
+  },
+  {
+    "proposal_id": "data_analyst-prop-107",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-108",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-01"
+  },
+  {
+    "proposal_id": "data_analyst-prop-109",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar BigQuery and SQL systems, including Ad Spend & ROAS Daily Tracker.",
+    "date": "2025-03-08"
+  },
+  {
+    "proposal_id": "data_analyst-prop-110",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-111",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-112",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing survey build, I previously delivered Survey & NPS Text Sentiment Aggregation (Summarized 12k quarterly responses by product area.).",
+    "date": "2025-03-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-113",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-14"
+  },
+  {
+    "proposal_id": "data_analyst-prop-114",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS saas build, I previously delivered SaaS Cohort Retention & Churn Dashboard (Identified 30-day onboarding drop-off driving 11% churn.).",
+    "date": "2025-06-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-115",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-14"
+  },
+  {
+    "proposal_id": "data_analyst-prop-116",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-117",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and SQL systems, including Marketing Attribution Multi-Touch Model.",
+    "date": "2025-05-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-118",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "won",
+    "text": "For your Logistics supply build, I previously delivered Supply Chain Lead-Time Variance Report (Pinpointed 4 bottleneck hubs responsible for 60% of delays.).",
+    "date": "2025-08-23"
+  },
+  {
+    "proposal_id": "data_analyst-prop-119",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Airflow and Python systems, including Airflow ETL Pipeline for Stripe & HubSpot.",
+    "date": "2025-06-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-120",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-121",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-19"
+  },
+  {
+    "proposal_id": "data_analyst-prop-122",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Excel systems, including Financial Reconciliation & Variance Audit.",
+    "date": "2025-06-26"
+  },
+  {
+    "proposal_id": "data_analyst-prop-123",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-27"
+  },
+  {
+    "proposal_id": "data_analyst-prop-124",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-125",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "won",
+    "text": "For your Marketing ad build, I previously delivered Ad Spend & ROAS Daily Tracker (Consolidated Meta, Google Ads, and TikTok metrics.).",
+    "date": "2025-10-04"
+  },
+  {
+    "proposal_id": "data_analyst-prop-126",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-14"
+  },
+  {
+    "proposal_id": "data_analyst-prop-127",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-05"
+  },
+  {
+    "proposal_id": "data_analyst-prop-128",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-02"
+  },
+  {
+    "proposal_id": "data_analyst-prop-129",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce dbt build, I previously delivered dbt Core Warehouse Modernization (Cut warehouse query spend by 38% and added 95 schema tests.).",
+    "date": "2025-05-12"
+  },
+  {
+    "proposal_id": "data_analyst-prop-130",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-131",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-08"
+  },
+  {
+    "proposal_id": "data_analyst-prop-132",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech executive build, I previously delivered Executive Revenue & Unit Economics BI (Replaced 12 manual weekly spreadsheets with live automated refresh.).",
+    "date": "2025-02-26"
+  },
+  {
+    "proposal_id": "data_analyst-prop-133",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and SQL systems, including Marketing Attribution Multi-Touch Model.",
+    "date": "2025-06-03"
+  },
+  {
+    "proposal_id": "data_analyst-prop-134",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and pandas systems, including Supply Chain Lead-Time Variance Report.",
+    "date": "2025-06-11"
+  },
+  {
+    "proposal_id": "data_analyst-prop-135",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Airflow and Python systems, including Airflow ETL Pipeline for Stripe & HubSpot.",
+    "date": "2025-09-07"
+  },
+  {
+    "proposal_id": "data_analyst-prop-136",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-18"
+  },
+  {
+    "proposal_id": "data_analyst-prop-137",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Customer Segmentation with RFM & K-Means",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-04"
+  },
+  {
+    "proposal_id": "data_analyst-prop-138",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Financial Reconciliation & Variance Audit",
+    "industry": "FinTech",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar SQL and Excel systems, including Financial Reconciliation & Variance Audit.",
+    "date": "2025-05-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-139",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Subscription Pricing Elasticity Study",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-13"
+  },
+  {
+    "proposal_id": "data_analyst-prop-140",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Warehouse Data Quality Monitoring",
+    "industry": "Logistics",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and Python systems, including Warehouse Data Quality Monitoring.",
+    "date": "2025-10-23"
+  },
+  {
+    "proposal_id": "data_analyst-prop-141",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Ad Spend & ROAS Daily Tracker",
+    "industry": "Marketing",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar BigQuery and SQL systems, including Ad Spend & ROAS Daily Tracker.",
+    "date": "2025-08-28"
+  },
+  {
+    "proposal_id": "data_analyst-prop-142",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Inventory Aging & Dead-Stock Dashboard",
+    "industry": "E-commerce",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-14"
+  },
+  {
+    "proposal_id": "data_analyst-prop-143",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Support SLA & Ticket Backlog Analytics",
+    "industry": "SaaS",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PostgreSQL and SQL systems, including Support SLA & Ticket Backlog Analytics.",
+    "date": "2025-11-26"
+  },
+  {
+    "proposal_id": "data_analyst-prop-144",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Survey & NPS Text Sentiment Aggregation",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and pandas systems, including Survey & NPS Text Sentiment Aggregation.",
+    "date": "2025-05-21"
+  },
+  {
+    "proposal_id": "data_analyst-prop-145",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar dbt and SQL systems, including dbt Core Warehouse Modernization.",
+    "date": "2025-12-01"
+  },
+  {
+    "proposal_id": "data_analyst-prop-146",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS saas build, I previously delivered SaaS Cohort Retention & Churn Dashboard (Identified 30-day onboarding drop-off driving 11% churn.).",
+    "date": "2025-09-24"
+  },
+  {
+    "proposal_id": "data_analyst-prop-147",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-10"
+  },
+  {
+    "proposal_id": "data_analyst-prop-148",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PowerBI and SQL systems, including Executive Revenue & Unit Economics BI.",
+    "date": "2025-02-17"
+  },
+  {
+    "proposal_id": "data_analyst-prop-149",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and SQL systems, including Marketing Attribution Multi-Touch Model.",
+    "date": "2025-03-23"
+  },
+  {
+    "proposal_id": "data_analyst-prop-150",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "past_proposal",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-24"
+  }
+]

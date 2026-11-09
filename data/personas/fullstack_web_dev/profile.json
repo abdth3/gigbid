@@ -1,0 +1,24 @@
+{
+  "freelancer_id": "persona-fullstack",
+  "persona_key": "fullstack_web_dev",
+  "display_name": "Sana Siddiqui (Synthetic)",
+  "headline": "Full-Stack TypeScript, React & Python Web Engineer",
+  "skills": [
+    "TypeScript",
+    "React",
+    "Next.js",
+    "FastAPI",
+    "Node.js",
+    "PostgreSQL",
+    "TailwindCSS",
+    "Redis",
+    "Docker",
+    "Playwright",
+    "Stripe",
+    "GraphQL"
+  ],
+  "hourly_rate_usd": 45,
+  "minimum_project_budget_usd": 300,
+  "availability_hours_per_week": 35,
+  "weekly_connects_budget": 60
+}

@@ -1,0 +1,137 @@
+[
+  {
+    "review_id": "data_analyst-rev-01",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "dbt Core Warehouse Modernization",
+    "industry": "E-commerce",
+    "rating": 4.9,
+    "text": "Great work on dbt Core Warehouse Modernization. Cut warehouse query spend by 38% and added 95 schema tests. Clear communication and on-time delivery.",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "date": "2025-08-10"
+  },
+  {
+    "review_id": "data_analyst-rev-02",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "SaaS Cohort Retention & Churn Dashboard",
+    "industry": "SaaS",
+    "rating": 5.0,
+    "text": "Great work on SaaS Cohort Retention & Churn Dashboard. Identified 30-day onboarding drop-off driving 11% churn. Clear communication and on-time delivery.",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "date": "2025-01-10"
+  },
+  {
+    "review_id": "data_analyst-rev-03",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Checkout Funnel A/B Experiment Analysis",
+    "industry": "E-commerce",
+    "rating": 4.8,
+    "text": "Great work on Checkout Funnel A/B Experiment Analysis. Evaluated 140k sessions; prevented premature rollout of underpowered variant. Clear communication and on-time delivery.",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "date": "2025-12-10"
+  },
+  {
+    "review_id": "data_analyst-rev-04",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Executive Revenue & Unit Economics BI",
+    "industry": "FinTech",
+    "rating": 4.9,
+    "text": "Great work on Executive Revenue & Unit Economics BI. Replaced 12 manual weekly spreadsheets with live automated refresh. Clear communication and on-time delivery.",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "date": "2025-12-10"
+  },
+  {
+    "review_id": "data_analyst-rev-05",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Marketing Attribution Multi-Touch Model",
+    "industry": "Marketing",
+    "rating": 4.9,
+    "text": "Great work on Marketing Attribution Multi-Touch Model. Reallocated 22% of ad spend toward higher-LTV channels. Clear communication and on-time delivery.",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "date": "2025-07-10"
+  },
+  {
+    "review_id": "data_analyst-rev-06",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Supply Chain Lead-Time Variance Report",
+    "industry": "Logistics",
+    "rating": 4.9,
+    "text": "Great work on Supply Chain Lead-Time Variance Report. Pinpointed 4 bottleneck hubs responsible for 60% of delays. Clear communication and on-time delivery.",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "date": "2025-02-10"
+  },
+  {
+    "review_id": "data_analyst-rev-07",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "industry": "SaaS",
+    "rating": 4.8,
+    "text": "Great work on Airflow ETL Pipeline for Stripe & HubSpot. 99.8% SLA across 180 daily sync runs. Clear communication and on-time delivery.",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "date": "2025-12-10"
+  },
+  {
+    "review_id": "data_analyst-rev-08",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "review",
+    "project": "Looker Semantic Layer for Product Analytics",
+    "industry": "SaaS",
+    "rating": 4.7,
+    "text": "Great work on Looker Semantic Layer for Product Analytics. Unified 4 conflicting definitions of 'Active User'. Clear communication and on-time delivery.",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "date": "2025-08-10"
+  }
+]

@@ -1,0 +1,368 @@
+[
+  {
+    "evidence_id": "ai_ml_engineer-case-01",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Customer Churn Prediction Pipeline",
+    "summary": "Delivered customer churn prediction pipeline for a FinTech client. Implemented gradient-boosted tabular churn modeling in production. Outcome: Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2025-10-15",
+    "outcome": "Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-01.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-repo-01",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "repo",
+    "title": "Repo: Customer Churn Prediction Pipeline",
+    "summary": "Repository implementing Customer Churn Prediction Pipeline with Python, scikit-learn, XGBoost, FastAPI, PostgreSQL. Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2025-10-15",
+    "outcome": "Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.",
+    "source": "github://abdth3/ai_ml_engineer-repo-01"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-02",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Multi-Agent Support Triage with LangGraph",
+    "summary": "Delivered multi-agent support triage with langgraph for a SaaS client. Implemented vector database retrieval with HNSW indexing in production. Outcome: Automated 62% of L1 tickets with human-in-the-loop escalation.",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "industry": "SaaS",
+    "date": "2025-04-15",
+    "outcome": "Automated 62% of L1 tickets with human-in-the-loop escalation.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-02.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-repo-02",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "repo",
+    "title": "Repo: Multi-Agent Support Triage with LangGraph",
+    "summary": "Repository implementing Multi-Agent Support Triage with LangGraph with LangGraph, Python, FastAPI, Qdrant, Redis. Automated 62% of L1 tickets with human-in-the-loop escalation.",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "industry": "SaaS",
+    "date": "2025-04-15",
+    "outcome": "Automated 62% of L1 tickets with human-in-the-loop escalation.",
+    "source": "github://abdth3/ai_ml_engineer-repo-02"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-03",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Hybrid BM25 + Dense Legal Document RAG",
+    "summary": "Delivered hybrid bm25 + dense legal document rag for a LegalTech client. Implemented vector database retrieval with HNSW indexing in production. Outcome: Improved citation recall@5 from 0.58 to 0.89 across 45k contracts.",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "industry": "LegalTech",
+    "date": "2024-06-15",
+    "outcome": "Improved citation recall@5 from 0.58 to 0.89 across 45k contracts.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-03.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-repo-03",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "repo",
+    "title": "Repo: Hybrid BM25 + Dense Legal Document RAG",
+    "summary": "Repository implementing Hybrid BM25 + Dense Legal Document RAG with RAG, Qdrant, Python, HuggingFace, BM25. Improved citation recall@5 from 0.58 to 0.89 across 45k contracts.",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "industry": "LegalTech",
+    "date": "2024-06-15",
+    "outcome": "Improved citation recall@5 from 0.58 to 0.89 across 45k contracts.",
+    "source": "github://abdth3/ai_ml_engineer-repo-03"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-04",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Clinical Note Entity Extraction",
+    "summary": "Delivered clinical note entity extraction for a HealthTech client. Implemented containerized microservice deployment in production. Outcome: Achieved 0.91 F1 on de-identified discharge summaries.",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "industry": "HealthTech",
+    "date": "2024-10-15",
+    "outcome": "Achieved 0.91 F1 on de-identified discharge summaries.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-04.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-repo-04",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "repo",
+    "title": "Repo: Clinical Note Entity Extraction",
+    "summary": "Repository implementing Clinical Note Entity Extraction with PyTorch, HuggingFace, Python, Docker. Achieved 0.91 F1 on de-identified discharge summaries.",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "industry": "HealthTech",
+    "date": "2024-10-15",
+    "outcome": "Achieved 0.91 F1 on de-identified discharge summaries.",
+    "source": "github://abdth3/ai_ml_engineer-repo-04"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-05",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Real-Time Fraud Scoring Microservice",
+    "summary": "Delivered real-time fraud scoring microservice for a FinTech client. Implemented gradient-boosted tabular churn modeling in production. Outcome: Served p95 latency of 38ms at 400 req/s.",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2024-02-15",
+    "outcome": "Served p95 latency of 38ms at 400 req/s.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-05.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-06",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "E-commerce Visual Search Engine",
+    "summary": "Delivered e-commerce visual search engine for a E-commerce client. Implemented vector database retrieval with HNSW indexing in production. Outcome: Increased product discovery click-through rate by 18%.",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "industry": "E-commerce",
+    "date": "2025-10-15",
+    "outcome": "Increased product discovery click-through rate by 18%.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-06.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-07",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Automated Invoice OCR & Line-Item Parser",
+    "summary": "Delivered automated invoice ocr & line-item parser for a FinTech client. Implemented distributed async task queues with Redis broker in production. Outcome: Processed 15,000 PDFs/month at 97.4% field accuracy.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2026-04-15",
+    "outcome": "Processed 15,000 PDFs/month at 97.4% field accuracy.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-07.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-08",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "LLM Evaluation & Guardrail Harness",
+    "summary": "Delivered llm evaluation & guardrail harness for a SaaS client. Implemented multi-step stateful agent orchestration in production. Outcome: Caught 94% of prompt-injection and hallucination cases in CI.",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "industry": "SaaS",
+    "date": "2024-08-15",
+    "outcome": "Caught 94% of prompt-injection and hallucination cases in CI.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-08.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-09",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Demand Forecasting for Retail Inventory",
+    "summary": "Delivered demand forecasting for retail inventory for a E-commerce client. Implemented gradient-boosted tabular churn modeling in production. Outcome: Cut stockouts by 14% across 800 SKUs.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-05-15",
+    "outcome": "Cut stockouts by 14% across 800 SKUs.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-09.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-10",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Voice-to-Structured-CRM Summarizer",
+    "summary": "Delivered voice-to-structured-crm summarizer for a SaaS client. Implemented distributed async task queues with Redis broker in production. Outcome: Saved sales reps 45 minutes per day on call logging.",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "industry": "SaaS",
+    "date": "2026-03-15",
+    "outcome": "Saved sales reps 45 minutes per day on call logging.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-10.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-11",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Semantic Code Search for Monorepo",
+    "summary": "Delivered semantic code search for monorepo for a SaaS client. Implemented vector database retrieval with HNSW indexing in production. Outcome: Indexed 180k functions with AST-aware chunking.",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "industry": "SaaS",
+    "date": "2026-01-15",
+    "outcome": "Indexed 180k functions with AST-aware chunking.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-11.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-12",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Patient Readmission Risk Model",
+    "summary": "Delivered patient readmission risk model for a HealthTech client. Implemented gradient-boosted tabular churn modeling in production. Outcome: ROC-AUC 0.86 validated on 3-hospital cohort.",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "industry": "HealthTech",
+    "date": "2025-04-15",
+    "outcome": "ROC-AUC 0.86 validated on 3-hospital cohort.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-12.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-13",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Dynamic Pricing Bandit Prototype",
+    "summary": "Delivered dynamic pricing bandit prototype for a E-commerce client. Outcome: Lifted margin by 6.2% in 4-week shadow test.",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "industry": "E-commerce",
+    "date": "2025-06-15",
+    "outcome": "Lifted margin by 6.2% in 4-week shadow test.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-13.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-14",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Contract Clause Compliance Checker",
+    "summary": "Delivered contract clause compliance checker for a LegalTech client. Implemented multi-step stateful agent orchestration in production. Outcome: Flagged non-standard indemnity clauses in under 4s.",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "industry": "LegalTech",
+    "date": "2024-02-15",
+    "outcome": "Flagged non-standard indemnity clauses in under 4s.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-14.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-15",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Distributed Embedding Pipeline",
+    "summary": "Delivered distributed embedding pipeline for a SaaS client. Implemented vector database retrieval with HNSW indexing in production. Outcome: Indexed 2M documents overnight using batched GPU workers.",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "industry": "SaaS",
+    "date": "2026-10-15",
+    "outcome": "Indexed 2M documents overnight using batched GPU workers.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-15.md"
+  },
+  {
+    "evidence_id": "ai_ml_engineer-case-16",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "case_study",
+    "title": "Tabular Anomaly Detector for IoT",
+    "summary": "Delivered tabular anomaly detector for iot for a SaaS client. Implemented gradient-boosted tabular churn modeling in production. Outcome: Detected sensor drift 6 hours earlier than static rules.",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "industry": "SaaS",
+    "date": "2024-10-15",
+    "outcome": "Detected sensor drift 6 hours earlier than static rules.",
+    "source": "data/personas/ai_ml_engineer/case_studies/ai_ml_engineer-case-16.md"
+  }
+]

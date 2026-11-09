@@ -1,0 +1,24 @@
+{
+  "freelancer_id": "persona-ai-ml",
+  "persona_key": "ai_ml_engineer",
+  "display_name": "Tariq Mahmood (Synthetic)",
+  "headline": "Senior AI/ML & LLM Systems Engineer",
+  "skills": [
+    "Python",
+    "PyTorch",
+    "LangGraph",
+    "RAG",
+    "FastAPI",
+    "scikit-learn",
+    "Qdrant",
+    "Docker",
+    "HuggingFace",
+    "PostgreSQL",
+    "Celery",
+    "OpenAI"
+  ],
+  "hourly_rate_usd": 55,
+  "minimum_project_budget_usd": 350,
+  "availability_hours_per_week": 30,
+  "weekly_connects_budget": 60
+}

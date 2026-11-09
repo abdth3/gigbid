@@ -1,0 +1,2162 @@
+[
+  {
+    "client_id": "client-ai_m-001",
+    "name": "Nova Systems",
+    "payment_verified": false,
+    "completed_projects": 4,
+    "average_rating": 4.48,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.8,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Celery",
+        "Python"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-002",
+    "name": "Acme Commerce",
+    "payment_verified": false,
+    "completed_projects": 25,
+    "average_rating": 4.4,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.66,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Qdrant",
+        "FastAPI"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-003",
+    "name": "Orbit Data",
+    "payment_verified": false,
+    "completed_projects": 16,
+    "average_rating": 4.61,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.76,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Qdrant",
+        "HuggingFace"
+      ],
+      "budget_ceiling": 700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-004",
+    "name": "Nova Systems",
+    "payment_verified": false,
+    "completed_projects": 13,
+    "average_rating": 4.69,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.55,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "scikit-learn",
+        "HuggingFace"
+      ],
+      "budget_ceiling": 1300,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-005",
+    "name": "Pulse Systems",
+    "payment_verified": false,
+    "completed_projects": 20,
+    "average_rating": 4.97,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.51,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "HuggingFace"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-006",
+    "name": "Apex Systems",
+    "payment_verified": false,
+    "completed_projects": 25,
+    "average_rating": 4.46,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.67,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "LangGraph",
+        "Docker"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-007",
+    "name": "Nova Labs",
+    "payment_verified": false,
+    "completed_projects": 16,
+    "average_rating": 4.81,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "OpenAI",
+        "RAG"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-008",
+    "name": "Nova Systems",
+    "payment_verified": false,
+    "completed_projects": 6,
+    "average_rating": 4.75,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.75,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "LangGraph",
+        "PyTorch"
+      ],
+      "budget_ceiling": 1800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-009",
+    "name": "Apex Labs",
+    "payment_verified": false,
+    "completed_projects": 22,
+    "average_rating": 4.58,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.54,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "LangGraph",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-010",
+    "name": "Apex Data",
+    "payment_verified": false,
+    "completed_projects": 8,
+    "average_rating": 4.59,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.56,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "Docker"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-011",
+    "name": "Nova Systems",
+    "payment_verified": false,
+    "completed_projects": 14,
+    "average_rating": 4.57,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.68,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "OpenAI"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-012",
+    "name": "Nova Commerce",
+    "payment_verified": false,
+    "completed_projects": 21,
+    "average_rating": 4.89,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.45,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "LangGraph"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-013",
+    "name": "Acme Health",
+    "payment_verified": false,
+    "completed_projects": 9,
+    "average_rating": 4.8,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.75,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "PyTorch"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-014",
+    "name": "Nova Data",
+    "payment_verified": false,
+    "completed_projects": 19,
+    "average_rating": 4.97,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.5,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Celery"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-015",
+    "name": "Pulse Labs",
+    "payment_verified": false,
+    "completed_projects": 19,
+    "average_rating": 4.51,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.8,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "HuggingFace"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-016",
+    "name": "Pulse Data",
+    "payment_verified": false,
+    "completed_projects": 18,
+    "average_rating": 4.7,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.59,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "RAG",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-017",
+    "name": "Nova Data",
+    "payment_verified": false,
+    "completed_projects": 14,
+    "average_rating": 4.95,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.53,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "OpenAI"
+      ],
+      "budget_ceiling": 1200,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-018",
+    "name": "Acme Data",
+    "payment_verified": false,
+    "completed_projects": 20,
+    "average_rating": 4.59,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.48,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "LangGraph",
+        "RAG"
+      ],
+      "budget_ceiling": 700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-019",
+    "name": "Orbit Data",
+    "payment_verified": false,
+    "completed_projects": 7,
+    "average_rating": 4.87,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.72,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "FastAPI"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-020",
+    "name": "Orbit Data",
+    "payment_verified": false,
+    "completed_projects": 8,
+    "average_rating": 4.43,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.81,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "Qdrant"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-021",
+    "name": "Orbit Data",
+    "payment_verified": true,
+    "completed_projects": 17,
+    "average_rating": 4.46,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.51,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Celery"
+      ],
+      "budget_ceiling": 900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-022",
+    "name": "Acme Commerce",
+    "payment_verified": true,
+    "completed_projects": 15,
+    "average_rating": 4.68,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.47,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "Celery"
+      ],
+      "budget_ceiling": 700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-023",
+    "name": "Acme Systems",
+    "payment_verified": true,
+    "completed_projects": 7,
+    "average_rating": 4.43,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "OpenAI",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-024",
+    "name": "Orbit Systems",
+    "payment_verified": true,
+    "completed_projects": 3,
+    "average_rating": 4.58,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.62,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "scikit-learn",
+        "RAG"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-025",
+    "name": "Acme Systems",
+    "payment_verified": true,
+    "completed_projects": 11,
+    "average_rating": 4.51,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.56,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "HuggingFace",
+        "Celery"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-026",
+    "name": "Apex Health",
+    "payment_verified": true,
+    "completed_projects": 6,
+    "average_rating": 4.49,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-027",
+    "name": "Orbit Labs",
+    "payment_verified": true,
+    "completed_projects": 8,
+    "average_rating": 4.83,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.5,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "OpenAI",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-028",
+    "name": "Acme Systems",
+    "payment_verified": true,
+    "completed_projects": 10,
+    "average_rating": 4.51,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.67,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "HuggingFace",
+        "scikit-learn"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-029",
+    "name": "Vertex Labs",
+    "payment_verified": true,
+    "completed_projects": 25,
+    "average_rating": 4.87,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.51,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "Python"
+      ],
+      "budget_ceiling": 1800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-030",
+    "name": "Nova Data",
+    "payment_verified": true,
+    "completed_projects": 17,
+    "average_rating": 4.57,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.69,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Docker"
+      ],
+      "budget_ceiling": 700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-031",
+    "name": "Nova Systems",
+    "payment_verified": true,
+    "completed_projects": 6,
+    "average_rating": 4.92,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.59,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "LangGraph"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-032",
+    "name": "Nova Labs",
+    "payment_verified": true,
+    "completed_projects": 5,
+    "average_rating": 4.41,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.81,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Qdrant",
+        "Docker"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-033",
+    "name": "Acme Health",
+    "payment_verified": true,
+    "completed_projects": 16,
+    "average_rating": 4.75,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Qdrant",
+        "LangGraph"
+      ],
+      "budget_ceiling": 1200,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-034",
+    "name": "Vertex Commerce",
+    "payment_verified": true,
+    "completed_projects": 15,
+    "average_rating": 4.4,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.67,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "HuggingFace"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-035",
+    "name": "Pulse Data",
+    "payment_verified": true,
+    "completed_projects": 9,
+    "average_rating": 4.46,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.56,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "Docker"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-036",
+    "name": "Acme Data",
+    "payment_verified": true,
+    "completed_projects": 5,
+    "average_rating": 4.89,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "LangGraph",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-037",
+    "name": "Orbit Labs",
+    "payment_verified": true,
+    "completed_projects": 16,
+    "average_rating": 4.45,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.61,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PyTorch",
+        "RAG"
+      ],
+      "budget_ceiling": 600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-038",
+    "name": "Nova Health",
+    "payment_verified": true,
+    "completed_projects": 4,
+    "average_rating": 4.98,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.59,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "HuggingFace",
+        "FastAPI"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-039",
+    "name": "Pulse Systems",
+    "payment_verified": true,
+    "completed_projects": 5,
+    "average_rating": 4.82,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.46,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Qdrant",
+        "LangGraph"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-ai_m-040",
+    "name": "Pulse Commerce",
+    "payment_verified": true,
+    "completed_projects": 21,
+    "average_rating": 4.55,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.53,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "HuggingFace",
+        "Python"
+      ],
+      "budget_ceiling": 1500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-001",
+    "name": "Orbit Commerce",
+    "payment_verified": false,
+    "completed_projects": 10,
+    "average_rating": 4.91,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.48,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "GraphQL",
+        "React"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-002",
+    "name": "Apex Health",
+    "payment_verified": false,
+    "completed_projects": 9,
+    "average_rating": 4.84,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.59,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TailwindCSS",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-003",
+    "name": "Pulse Data",
+    "payment_verified": false,
+    "completed_projects": 13,
+    "average_rating": 4.98,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Node.js",
+        "Docker"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-004",
+    "name": "Acme Data",
+    "payment_verified": false,
+    "completed_projects": 24,
+    "average_rating": 4.85,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.8,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "budget_ceiling": 600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-005",
+    "name": "Pulse Health",
+    "payment_verified": false,
+    "completed_projects": 11,
+    "average_rating": 4.79,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.71,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "Next.js"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-006",
+    "name": "Nova Systems",
+    "payment_verified": false,
+    "completed_projects": 6,
+    "average_rating": 4.96,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.56,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "Playwright"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-007",
+    "name": "Orbit Labs",
+    "payment_verified": false,
+    "completed_projects": 16,
+    "average_rating": 4.66,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.76,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "Stripe"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-008",
+    "name": "Orbit Systems",
+    "payment_verified": false,
+    "completed_projects": 17,
+    "average_rating": 4.5,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.8,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "GraphQL"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-009",
+    "name": "Acme Commerce",
+    "payment_verified": false,
+    "completed_projects": 13,
+    "average_rating": 4.83,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.77,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "Playwright"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-010",
+    "name": "Vertex Health",
+    "payment_verified": false,
+    "completed_projects": 24,
+    "average_rating": 4.78,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-011",
+    "name": "Apex Systems",
+    "payment_verified": false,
+    "completed_projects": 12,
+    "average_rating": 4.91,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.45,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "GraphQL",
+        "Stripe"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-012",
+    "name": "Orbit Commerce",
+    "payment_verified": false,
+    "completed_projects": 16,
+    "average_rating": 4.68,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.66,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "TailwindCSS"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-013",
+    "name": "Vertex Health",
+    "payment_verified": false,
+    "completed_projects": 23,
+    "average_rating": 4.97,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.55,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "Docker"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-014",
+    "name": "Orbit Labs",
+    "payment_verified": false,
+    "completed_projects": 17,
+    "average_rating": 4.76,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "React"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-015",
+    "name": "Orbit Health",
+    "payment_verified": false,
+    "completed_projects": 9,
+    "average_rating": 4.79,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.51,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Redis",
+        "Docker"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-016",
+    "name": "Apex Commerce",
+    "payment_verified": false,
+    "completed_projects": 21,
+    "average_rating": 4.74,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.85,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "GraphQL"
+      ],
+      "budget_ceiling": 900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-017",
+    "name": "Acme Health",
+    "payment_verified": false,
+    "completed_projects": 12,
+    "average_rating": 4.69,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.79,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "Node.js"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-018",
+    "name": "Vertex Commerce",
+    "payment_verified": false,
+    "completed_projects": 9,
+    "average_rating": 4.42,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.79,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Playwright",
+        "Docker"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-019",
+    "name": "Nova Health",
+    "payment_verified": false,
+    "completed_projects": 6,
+    "average_rating": 4.94,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.69,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Docker"
+      ],
+      "budget_ceiling": 1200,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-020",
+    "name": "Acme Systems",
+    "payment_verified": false,
+    "completed_projects": 5,
+    "average_rating": 4.99,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.46,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Playwright"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-021",
+    "name": "Apex Labs",
+    "payment_verified": true,
+    "completed_projects": 24,
+    "average_rating": 4.75,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.52,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "TypeScript"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-022",
+    "name": "Acme Labs",
+    "payment_verified": true,
+    "completed_projects": 4,
+    "average_rating": 4.81,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TailwindCSS",
+        "React"
+      ],
+      "budget_ceiling": 600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-023",
+    "name": "Pulse Labs",
+    "payment_verified": true,
+    "completed_projects": 2,
+    "average_rating": 4.73,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.53,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TailwindCSS",
+        "React"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-024",
+    "name": "Vertex Health",
+    "payment_verified": true,
+    "completed_projects": 22,
+    "average_rating": 4.55,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.69,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "Redis"
+      ],
+      "budget_ceiling": 1300,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-025",
+    "name": "Vertex Health",
+    "payment_verified": true,
+    "completed_projects": 15,
+    "average_rating": 4.92,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.78,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "TypeScript"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-026",
+    "name": "Pulse Systems",
+    "payment_verified": true,
+    "completed_projects": 2,
+    "average_rating": 4.62,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.83,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "GraphQL",
+        "Playwright"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-027",
+    "name": "Orbit Labs",
+    "payment_verified": true,
+    "completed_projects": 15,
+    "average_rating": 4.66,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.62,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "React",
+        "GraphQL"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-028",
+    "name": "Orbit Labs",
+    "payment_verified": true,
+    "completed_projects": 24,
+    "average_rating": 4.9,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.84,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "Redis"
+      ],
+      "budget_ceiling": 1500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-029",
+    "name": "Pulse Labs",
+    "payment_verified": true,
+    "completed_projects": 18,
+    "average_rating": 4.77,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.76,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "FastAPI",
+        "TailwindCSS"
+      ],
+      "budget_ceiling": 1800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-030",
+    "name": "Nova Commerce",
+    "payment_verified": true,
+    "completed_projects": 19,
+    "average_rating": 4.84,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.51,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Playwright",
+        "Redis"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-031",
+    "name": "Apex Data",
+    "payment_verified": true,
+    "completed_projects": 22,
+    "average_rating": 4.74,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.66,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Stripe",
+        "GraphQL"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-032",
+    "name": "Vertex Data",
+    "payment_verified": true,
+    "completed_projects": 15,
+    "average_rating": 4.51,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.79,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Playwright",
+        "Redis"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-033",
+    "name": "Acme Labs",
+    "payment_verified": true,
+    "completed_projects": 6,
+    "average_rating": 4.66,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.63,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Stripe",
+        "Docker"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-034",
+    "name": "Apex Labs",
+    "payment_verified": true,
+    "completed_projects": 20,
+    "average_rating": 4.62,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.83,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Redis",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 1500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-035",
+    "name": "Pulse Commerce",
+    "payment_verified": true,
+    "completed_projects": 11,
+    "average_rating": 4.82,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.65,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TailwindCSS",
+        "Playwright"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-036",
+    "name": "Acme Data",
+    "payment_verified": true,
+    "completed_projects": 24,
+    "average_rating": 4.76,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.62,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "GraphQL"
+      ],
+      "budget_ceiling": 900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-037",
+    "name": "Apex Data",
+    "payment_verified": true,
+    "completed_projects": 4,
+    "average_rating": 4.67,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.74,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "Node.js"
+      ],
+      "budget_ceiling": 900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-038",
+    "name": "Vertex Health",
+    "payment_verified": true,
+    "completed_projects": 13,
+    "average_rating": 4.69,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.58,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Docker",
+        "Next.js"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-039",
+    "name": "Vertex Commerce",
+    "payment_verified": true,
+    "completed_projects": 2,
+    "average_rating": 4.83,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.83,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "TypeScript",
+        "React"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-full-040",
+    "name": "Vertex Commerce",
+    "payment_verified": true,
+    "completed_projects": 10,
+    "average_rating": 4.97,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.52,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Next.js",
+        "Node.js"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-001",
+    "name": "Nova Labs",
+    "payment_verified": false,
+    "completed_projects": 6,
+    "average_rating": 4.7,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.58,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "SQL",
+        "pandas"
+      ],
+      "budget_ceiling": 1300,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-002",
+    "name": "Acme Labs",
+    "payment_verified": false,
+    "completed_projects": 13,
+    "average_rating": 4.83,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.82,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "BigQuery",
+        "A/B Testing"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-003",
+    "name": "Apex Labs",
+    "payment_verified": false,
+    "completed_projects": 21,
+    "average_rating": 4.72,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.76,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Excel",
+        "SQL"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-004",
+    "name": "Pulse Labs",
+    "payment_verified": false,
+    "completed_projects": 17,
+    "average_rating": 4.58,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.79,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "Looker"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-005",
+    "name": "Acme Health",
+    "payment_verified": false,
+    "completed_projects": 9,
+    "average_rating": 4.91,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.48,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "pandas",
+        "A/B Testing"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-006",
+    "name": "Acme Systems",
+    "payment_verified": false,
+    "completed_projects": 5,
+    "average_rating": 4.65,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.65,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Tableau",
+        "pandas"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-007",
+    "name": "Pulse Labs",
+    "payment_verified": false,
+    "completed_projects": 14,
+    "average_rating": 4.54,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.82,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Looker"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-008",
+    "name": "Vertex Labs",
+    "payment_verified": false,
+    "completed_projects": 11,
+    "average_rating": 4.75,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.57,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "SQL",
+        "BigQuery"
+      ],
+      "budget_ceiling": 1800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-009",
+    "name": "Orbit Health",
+    "payment_verified": false,
+    "completed_projects": 21,
+    "average_rating": 4.86,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.68,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Tableau",
+        "SQL"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-010",
+    "name": "Pulse Systems",
+    "payment_verified": false,
+    "completed_projects": 16,
+    "average_rating": 4.51,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "pandas",
+        "Python"
+      ],
+      "budget_ceiling": 700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-011",
+    "name": "Vertex Systems",
+    "payment_verified": false,
+    "completed_projects": 15,
+    "average_rating": 4.8,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.83,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Airflow",
+        "Tableau"
+      ],
+      "budget_ceiling": 1300,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-012",
+    "name": "Acme Data",
+    "payment_verified": false,
+    "completed_projects": 18,
+    "average_rating": 4.78,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.66,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "BigQuery",
+        "Looker"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-013",
+    "name": "Pulse Systems",
+    "payment_verified": false,
+    "completed_projects": 22,
+    "average_rating": 4.54,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.81,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "A/B Testing",
+        "Python"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-014",
+    "name": "Nova Data",
+    "payment_verified": false,
+    "completed_projects": 12,
+    "average_rating": 4.88,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.74,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PowerBI",
+        "BigQuery"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-015",
+    "name": "Acme Health",
+    "payment_verified": false,
+    "completed_projects": 19,
+    "average_rating": 4.54,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.55,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "PostgreSQL",
+        "SQL"
+      ],
+      "budget_ceiling": 1200,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-016",
+    "name": "Orbit Health",
+    "payment_verified": false,
+    "completed_projects": 23,
+    "average_rating": 4.72,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.46,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "A/B Testing",
+        "PowerBI"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-017",
+    "name": "Orbit Data",
+    "payment_verified": false,
+    "completed_projects": 23,
+    "average_rating": 4.56,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.77,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "pandas",
+        "Looker"
+      ],
+      "budget_ceiling": 1300,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-018",
+    "name": "Vertex Systems",
+    "payment_verified": false,
+    "completed_projects": 13,
+    "average_rating": 4.98,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.6,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "BigQuery",
+        "PowerBI"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-019",
+    "name": "Apex Commerce",
+    "payment_verified": false,
+    "completed_projects": 4,
+    "average_rating": 4.66,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.5,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "Tableau"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-020",
+    "name": "Apex Labs",
+    "payment_verified": false,
+    "completed_projects": 20,
+    "average_rating": 4.6,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.65,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Tableau",
+        "dbt"
+      ],
+      "budget_ceiling": 1700,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-021",
+    "name": "Vertex Health",
+    "payment_verified": true,
+    "completed_projects": 20,
+    "average_rating": 4.63,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.79,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "Python"
+      ],
+      "budget_ceiling": 1200,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-022",
+    "name": "Nova Health",
+    "payment_verified": true,
+    "completed_projects": 24,
+    "average_rating": 4.75,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.56,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "pandas",
+        "Python"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-023",
+    "name": "Apex Data",
+    "payment_verified": true,
+    "completed_projects": 8,
+    "average_rating": 4.55,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.83,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "PowerBI"
+      ],
+      "budget_ceiling": 1500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-024",
+    "name": "Apex Commerce",
+    "payment_verified": true,
+    "completed_projects": 9,
+    "average_rating": 4.79,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.54,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Excel",
+        "SQL"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-025",
+    "name": "Apex Health",
+    "payment_verified": true,
+    "completed_projects": 7,
+    "average_rating": 4.49,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.48,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "A/B Testing",
+        "Airflow"
+      ],
+      "budget_ceiling": 1900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-026",
+    "name": "Nova Systems",
+    "payment_verified": true,
+    "completed_projects": 13,
+    "average_rating": 4.89,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.75,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "pandas"
+      ],
+      "budget_ceiling": 2100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-027",
+    "name": "Orbit Commerce",
+    "payment_verified": true,
+    "completed_projects": 3,
+    "average_rating": 4.47,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.71,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "Excel"
+      ],
+      "budget_ceiling": 500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-028",
+    "name": "Nova Systems",
+    "payment_verified": true,
+    "completed_projects": 16,
+    "average_rating": 4.68,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.68,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "pandas",
+        "Excel"
+      ],
+      "budget_ceiling": 1500,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-029",
+    "name": "Acme Labs",
+    "payment_verified": true,
+    "completed_projects": 10,
+    "average_rating": 4.95,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.82,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Excel",
+        "Tableau"
+      ],
+      "budget_ceiling": 900,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-030",
+    "name": "Vertex Health",
+    "payment_verified": true,
+    "completed_projects": 22,
+    "average_rating": 4.71,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.46,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "BigQuery"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-031",
+    "name": "Vertex Commerce",
+    "payment_verified": true,
+    "completed_projects": 23,
+    "average_rating": 4.91,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.5,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "SQL",
+        "Looker"
+      ],
+      "budget_ceiling": 1400,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-032",
+    "name": "Pulse Data",
+    "payment_verified": true,
+    "completed_projects": 22,
+    "average_rating": 4.82,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.85,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "SQL",
+        "PostgreSQL"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-033",
+    "name": "Orbit Systems",
+    "payment_verified": true,
+    "completed_projects": 18,
+    "average_rating": 4.87,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.81,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "SQL",
+        "Looker"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-034",
+    "name": "Vertex Systems",
+    "payment_verified": true,
+    "completed_projects": 25,
+    "average_rating": 4.62,
+    "total_spent_usd": 15000,
+    "hire_rate": 0.78,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Excel",
+        "A/B Testing"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-035",
+    "name": "Orbit Commerce",
+    "payment_verified": true,
+    "completed_projects": 9,
+    "average_rating": 4.82,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.81,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Looker",
+        "A/B Testing"
+      ],
+      "budget_ceiling": 1000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-036",
+    "name": "Orbit Systems",
+    "payment_verified": true,
+    "completed_projects": 13,
+    "average_rating": 4.54,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.62,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "Python",
+        "Airflow"
+      ],
+      "budget_ceiling": 1600,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-037",
+    "name": "Pulse Labs",
+    "payment_verified": true,
+    "completed_projects": 3,
+    "average_rating": 4.73,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.47,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "pandas"
+      ],
+      "budget_ceiling": 2000,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-038",
+    "name": "Nova Systems",
+    "payment_verified": true,
+    "completed_projects": 14,
+    "average_rating": 4.42,
+    "total_spent_usd": 1200,
+    "hire_rate": 0.65,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "pandas"
+      ],
+      "budget_ceiling": 800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-039",
+    "name": "Apex Systems",
+    "payment_verified": true,
+    "completed_projects": 19,
+    "average_rating": 4.81,
+    "total_spent_usd": 4500,
+    "hire_rate": 0.73,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "BigQuery",
+        "Excel"
+      ],
+      "budget_ceiling": 1800,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  },
+  {
+    "client_id": "client-data-040",
+    "name": "Vertex Commerce",
+    "payment_verified": true,
+    "completed_projects": 17,
+    "average_rating": 4.52,
+    "total_spent_usd": 48000,
+    "hire_rate": 0.75,
+    "hidden_preferences": {
+      "must_have_skills": [
+        "dbt",
+        "A/B Testing"
+      ],
+      "budget_ceiling": 1100,
+      "dislike_generic_openings": true,
+      "prefers_evidence_metrics": true
+    }
+  }
+]

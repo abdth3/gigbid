@@ -1,0 +1,24 @@
+{
+  "freelancer_id": "persona-data-analyst",
+  "persona_key": "data_analyst",
+  "display_name": "Bilal Qureshi (Synthetic)",
+  "headline": "Senior Data Analyst, BI & Analytics Engineer",
+  "skills": [
+    "SQL",
+    "Python",
+    "dbt",
+    "PostgreSQL",
+    "PowerBI",
+    "Tableau",
+    "pandas",
+    "BigQuery",
+    "Airflow",
+    "Looker",
+    "Excel",
+    "A/B Testing"
+  ],
+  "hourly_rate_usd": 40,
+  "minimum_project_budget_usd": 250,
+  "availability_hours_per_week": 30,
+  "weekly_connects_budget": 50
+}

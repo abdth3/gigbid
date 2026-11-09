@@ -1,0 +1,2583 @@
+[
+  {
+    "proposal_id": "ai_ml_engineer-prop-001",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-002",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar LangGraph and Python systems, including Multi-Agent Support Triage with LangGraph.",
+    "date": "2025-04-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-003",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech hybrid build, I previously delivered Hybrid BM25 + Dense Legal Document RAG (Improved citation recall@5 from 0.58 to 0.89 across 45k contracts.).",
+    "date": "2025-08-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-004",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-20"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-005",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech real-time build, I previously delivered Real-Time Fraud Scoring Microservice (Served p95 latency of 38ms at 400 req/s.).",
+    "date": "2025-02-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-006",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-12"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-007",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-008",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-23"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-009",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce demand build, I previously delivered Demand Forecasting for Retail Inventory (Cut stockouts by 14% across 800 SKUs.).",
+    "date": "2025-03-16"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-010",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and HuggingFace systems, including Voice-to-Structured-CRM Summarizer.",
+    "date": "2025-03-12"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-011",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS semantic build, I previously delivered Semantic Code Search for Monorepo (Indexed 180k functions with AST-aware chunking.).",
+    "date": "2025-03-22"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-012",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-04"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-013",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce dynamic build, I previously delivered Dynamic Pricing Bandit Prototype (Lifted margin by 6.2% in 4-week shadow test.).",
+    "date": "2025-03-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-014",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech contract build, I previously delivered Contract Clause Compliance Checker (Flagged non-standard indemnity clauses in under 4s.).",
+    "date": "2025-07-04"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-015",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Celery and Redis systems, including Distributed Embedding Pipeline.",
+    "date": "2025-12-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-016",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS tabular build, I previously delivered Tabular Anomaly Detector for IoT (Detected sensor drift 6 hours earlier than static rules.).",
+    "date": "2025-12-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-017",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-018",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-019",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-020",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-021",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-15"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-022",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and Qdrant systems, including E-commerce Visual Search Engine.",
+    "date": "2025-10-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-023",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-11"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-024",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and LangGraph systems, including LLM Evaluation & Guardrail Harness.",
+    "date": "2025-04-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-025",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-026",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and HuggingFace systems, including Voice-to-Structured-CRM Summarizer.",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-027",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-028",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-05"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-029",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-030",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-031",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Celery and Redis systems, including Distributed Embedding Pipeline.",
+    "date": "2025-11-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-032",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-033",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-08"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-034",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-035",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-036",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-037",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-038",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-09"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-039",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and PyTorch systems, including Automated Invoice OCR & Line-Item Parser.",
+    "date": "2025-03-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-040",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS llm build, I previously delivered LLM Evaluation & Guardrail Harness (Caught 94% of prompt-injection and hallucination cases in CI.).",
+    "date": "2025-07-16"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-041",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-05"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-042",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-23"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-043",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-05"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-044",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-14"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-045",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-03"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-046",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-15"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-047",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS distributed build, I previously delivered Distributed Embedding Pipeline (Indexed 2M documents overnight using batched GPU workers.).",
+    "date": "2025-05-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-048",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Tabular Anomaly Detector for IoT.",
+    "date": "2025-01-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-049",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech customer build, I previously delivered Customer Churn Prediction Pipeline (Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.).",
+    "date": "2025-01-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-050",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-051",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-03"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-052",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and HuggingFace systems, including Clinical Note Entity Extraction.",
+    "date": "2025-12-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-053",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-03"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-054",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-055",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech automated build, I previously delivered Automated Invoice OCR & Line-Item Parser (Processed 15,000 PDFs/month at 97.4% field accuracy.).",
+    "date": "2025-09-21"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-056",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and LangGraph systems, including LLM Evaluation & Guardrail Harness.",
+    "date": "2025-11-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-057",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-058",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS voice-to-structured-crm build, I previously delivered Voice-to-Structured-CRM Summarizer (Saved sales reps 45 minutes per day on call logging.).",
+    "date": "2025-06-11"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-059",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar RAG and Qdrant systems, including Semantic Code Search for Monorepo.",
+    "date": "2025-02-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-060",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-10"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-061",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-062",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech contract build, I previously delivered Contract Clause Compliance Checker (Flagged non-standard indemnity clauses in under 4s.).",
+    "date": "2025-03-20"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-063",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-16"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-064",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Tabular Anomaly Detector for IoT.",
+    "date": "2025-09-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-065",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech customer build, I previously delivered Customer Churn Prediction Pipeline (Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.).",
+    "date": "2025-03-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-066",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-20"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-067",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-068",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and HuggingFace systems, including Clinical Note Entity Extraction.",
+    "date": "2025-09-14"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-069",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar FastAPI and scikit-learn systems, including Real-Time Fraud Scoring Microservice.",
+    "date": "2025-01-20"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-070",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce e-commerce build, I previously delivered E-commerce Visual Search Engine (Increased product discovery click-through rate by 18%.).",
+    "date": "2025-11-09"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-071",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-12"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-072",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-12"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-073",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-074",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS voice-to-structured-crm build, I previously delivered Voice-to-Structured-CRM Summarizer (Saved sales reps 45 minutes per day on call logging.).",
+    "date": "2025-07-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-075",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS semantic build, I previously delivered Semantic Code Search for Monorepo (Indexed 180k functions with AST-aware chunking.).",
+    "date": "2025-07-05"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-076",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-08"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-077",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-22"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-078",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech contract build, I previously delivered Contract Clause Compliance Checker (Flagged non-standard indemnity clauses in under 4s.).",
+    "date": "2025-05-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-079",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS distributed build, I previously delivered Distributed Embedding Pipeline (Indexed 2M documents overnight using batched GPU workers.).",
+    "date": "2025-10-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-080",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-23"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-081",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech customer build, I previously delivered Customer Churn Prediction Pipeline (Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.).",
+    "date": "2025-08-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-082",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar LangGraph and Python systems, including Multi-Agent Support Triage with LangGraph.",
+    "date": "2025-04-14"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-083",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-084",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and HuggingFace systems, including Clinical Note Entity Extraction.",
+    "date": "2025-06-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-085",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-086",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-087",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech automated build, I previously delivered Automated Invoice OCR & Line-Item Parser (Processed 15,000 PDFs/month at 97.4% field accuracy.).",
+    "date": "2025-01-09"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-088",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-089",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and scikit-learn systems, including Demand Forecasting for Retail Inventory.",
+    "date": "2025-09-04"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-090",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-091",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS semantic build, I previously delivered Semantic Code Search for Monorepo (Indexed 180k functions with AST-aware chunking.).",
+    "date": "2025-11-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-092",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Patient Readmission Risk Model.",
+    "date": "2025-11-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-093",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-16"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-094",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-095",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Celery and Redis systems, including Distributed Embedding Pipeline.",
+    "date": "2025-12-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-096",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Tabular Anomaly Detector for IoT.",
+    "date": "2025-11-03"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-097",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and scikit-learn systems, including Customer Churn Prediction Pipeline.",
+    "date": "2025-04-05"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-098",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-23"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-099",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar RAG and Qdrant systems, including Hybrid BM25 + Dense Legal Document RAG.",
+    "date": "2025-11-10"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-100",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-101",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-102",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and Qdrant systems, including E-commerce Visual Search Engine.",
+    "date": "2025-05-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-103",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech automated build, I previously delivered Automated Invoice OCR & Line-Item Parser (Processed 15,000 PDFs/month at 97.4% field accuracy.).",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-104",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-105",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-14"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-106",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and HuggingFace systems, including Voice-to-Structured-CRM Summarizer.",
+    "date": "2025-05-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-107",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar RAG and Qdrant systems, including Semantic Code Search for Monorepo.",
+    "date": "2025-08-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-108",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your HealthTech patient build, I previously delivered Patient Readmission Risk Model (ROC-AUC 0.86 validated on 3-hospital cohort.).",
+    "date": "2025-07-10"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-109",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-110",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech contract build, I previously delivered Contract Clause Compliance Checker (Flagged non-standard indemnity clauses in under 4s.).",
+    "date": "2025-06-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-111",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Celery and Redis systems, including Distributed Embedding Pipeline.",
+    "date": "2025-01-06"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-112",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Tabular Anomaly Detector for IoT.",
+    "date": "2025-04-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-113",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-18"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-114",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-115",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-01"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-116",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-117",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar FastAPI and scikit-learn systems, including Real-Time Fraud Scoring Microservice.",
+    "date": "2025-05-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-118",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and Qdrant systems, including E-commerce Visual Search Engine.",
+    "date": "2025-10-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-119",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-120",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and LangGraph systems, including LLM Evaluation & Guardrail Harness.",
+    "date": "2025-02-12"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-121",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Python and scikit-learn systems, including Demand Forecasting for Retail Inventory.",
+    "date": "2025-12-17"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-122",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-11"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-123",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-15"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-124",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-125",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-126",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar LangGraph and RAG systems, including Contract Clause Compliance Checker.",
+    "date": "2025-11-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-127",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-08"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-128",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar scikit-learn and Python systems, including Tabular Anomaly Detector for IoT.",
+    "date": "2025-04-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-129",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-130",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-131",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar RAG and Qdrant systems, including Hybrid BM25 + Dense Legal Document RAG.",
+    "date": "2025-12-04"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-132",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar PyTorch and HuggingFace systems, including Clinical Note Entity Extraction.",
+    "date": "2025-04-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-133",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech real-time build, I previously delivered Real-Time Fraud Scoring Microservice (Served p95 latency of 38ms at 400 req/s.).",
+    "date": "2025-02-03"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-134",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce e-commerce build, I previously delivered E-commerce Visual Search Engine (Increased product discovery click-through rate by 18%.).",
+    "date": "2025-10-15"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-135",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-26"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-136",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS llm build, I previously delivered LLM Evaluation & Guardrail Harness (Caught 94% of prompt-injection and hallucination cases in CI.).",
+    "date": "2025-01-20"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-137",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Demand Forecasting for Retail Inventory",
+    "industry": "E-commerce",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "PostgreSQL",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-138",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Voice-to-Structured-CRM Summarizer",
+    "industry": "SaaS",
+    "skills": [
+      "Python",
+      "HuggingFace",
+      "FastAPI",
+      "Celery"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS voice-to-structured-crm build, I previously delivered Voice-to-Structured-CRM Summarizer (Saved sales reps 45 minutes per day on call logging.).",
+    "date": "2025-11-07"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-139",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Semantic Code Search for Monorepo",
+    "industry": "SaaS",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "BM25"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar RAG and Qdrant systems, including Semantic Code Search for Monorepo.",
+    "date": "2025-03-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-140",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Patient Readmission Risk Model",
+    "industry": "HealthTech",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-02"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-141",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Dynamic Pricing Bandit Prototype",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Python",
+      "FastAPI",
+      "Redis"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-142",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Contract Clause Compliance Checker",
+    "industry": "LegalTech",
+    "skills": [
+      "LangGraph",
+      "RAG",
+      "Python",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your LegalTech contract build, I previously delivered Contract Clause Compliance Checker (Flagged non-standard indemnity clauses in under 4s.).",
+    "date": "2025-02-25"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-143",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Distributed Embedding Pipeline",
+    "industry": "SaaS",
+    "skills": [
+      "Celery",
+      "Redis",
+      "Python",
+      "Docker",
+      "Qdrant"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-16"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-144",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Tabular Anomaly Detector for IoT",
+    "industry": "SaaS",
+    "skills": [
+      "scikit-learn",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-145",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech customer build, I previously delivered Customer Churn Prediction Pipeline (Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning.).",
+    "date": "2025-09-28"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-146",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar LangGraph and Python systems, including Multi-Agent Support Triage with LangGraph.",
+    "date": "2025-09-24"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-147",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-01"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-148",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-27"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-149",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech real-time build, I previously delivered Real-Time Fraud Scoring Microservice (Served p95 latency of 38ms at 400 req/s.).",
+    "date": "2025-01-19"
+  },
+  {
+    "proposal_id": "ai_ml_engineer-prop-150",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "past_proposal",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce e-commerce build, I previously delivered E-commerce Visual Search Engine (Increased product discovery click-through rate by 18%.).",
+    "date": "2025-07-04"
+  }
+]

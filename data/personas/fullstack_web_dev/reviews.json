@@ -1,0 +1,142 @@
+[
+  {
+    "review_id": "fullstack_web_dev-rev-01",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "rating": 4.9,
+    "text": "Great work on Multi-Tenant B2B SaaS Billing Portal. Handled 1,200+ active subscriptions with zero webhook drift. Clear communication and on-time delivery.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "date": "2025-09-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-02",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "rating": 4.9,
+    "text": "Great work on Real-Time Collaborative Kanban Board. Supported 500 concurrent WebSocket users with optimistic UI. Clear communication and on-time delivery.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "date": "2025-10-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-03",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "rating": 4.8,
+    "text": "Great work on Headless E-commerce Storefront & Checkout. Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%. Clear communication and on-time delivery.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "date": "2025-09-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-04",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "rating": 4.8,
+    "text": "Great work on Telehealth Appointment & Video Scheduler. Zero missed booking race conditions via advisory locks. Clear communication and on-time delivery.",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "date": "2025-04-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-05",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "rating": 4.8,
+    "text": "Great work on Interactive EdTech Course & Quiz Platform. Served 8,000 monthly active students. Clear communication and on-time delivery.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "date": "2025-08-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-06",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "rating": 4.8,
+    "text": "Great work on FinTech Expense Approval Dashboard. Cut finance team reconciliation time by 50%. Clear communication and on-time delivery.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "date": "2025-01-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-07",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "rating": 4.9,
+    "text": "Great work on GraphQL API Gateway Migration. Reduced mobile payload size by 41%. Clear communication and on-time delivery.",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "date": "2025-07-10"
+  },
+  {
+    "review_id": "fullstack_web_dev-rev-08",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "review",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "rating": 4.8,
+    "text": "Great work on Automated E2E QA Suite with Playwright. Eliminated 90% of manual pre-release smoke testing. Clear communication and on-time delivery.",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "date": "2025-12-10"
+  }
+]

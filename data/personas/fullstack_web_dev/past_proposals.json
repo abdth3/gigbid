@@ -1,0 +1,2583 @@
+[
+  {
+    "proposal_id": "fullstack_web_dev-prop-001",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS multi-tenant build, I previously delivered Multi-Tenant B2B SaaS Billing Portal (Handled 1,200+ active subscriptions with zero webhook drift.).",
+    "date": "2025-04-20"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-002",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-003",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Headless E-commerce Storefront & Checkout.",
+    "date": "2025-05-11"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-004",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and Node.js systems, including Telehealth Appointment & Video Scheduler.",
+    "date": "2025-02-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-005",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Interactive EdTech Course & Quiz Platform.",
+    "date": "2025-01-23"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-006",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-10"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-007",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS graphql build, I previously delivered GraphQL API Gateway Migration (Reduced mobile payload size by 41%.).",
+    "date": "2025-09-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-008",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-27"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-009",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Vendor Marketplace Onboarding Flow.",
+    "date": "2025-01-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-010",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-16"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-011",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-012",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-02"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-013",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-04"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-014",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-015",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-07"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-016",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-017",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-018",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Real-Time Collaborative Kanban Board.",
+    "date": "2025-10-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-019",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-020",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your HealthTech telehealth build, I previously delivered Telehealth Appointment & Video Scheduler (Zero missed booking race conditions via advisory locks.).",
+    "date": "2025-08-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-021",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Interactive EdTech Course & Quiz Platform.",
+    "date": "2025-12-07"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-022",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech fintech build, I previously delivered FinTech Expense Approval Dashboard (Cut finance team reconciliation time by 50%.).",
+    "date": "2025-03-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-023",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Node.js and TypeScript systems, including GraphQL API Gateway Migration.",
+    "date": "2025-06-12"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-024",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS automated build, I previously delivered Automated E2E QA Suite with Playwright (Eliminated 90% of manual pre-release smoke testing.).",
+    "date": "2025-07-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-025",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-026",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS analytics build, I previously delivered Analytics & Reporting Portal for Logistics (Rendered 100k-row paginated tables in under 150ms.).",
+    "date": "2025-11-28"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-027",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Design System & Accessible Component Library.",
+    "date": "2025-09-21"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-028",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-07"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-029",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-10"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-030",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-04"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-031",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and FastAPI systems, including Live Auction Bidding WebSocket App.",
+    "date": "2025-09-01"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-032",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-033",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Multi-Tenant B2B SaaS Billing Portal.",
+    "date": "2025-05-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-034",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Real-Time Collaborative Kanban Board.",
+    "date": "2025-11-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-035",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-036",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and Node.js systems, including Telehealth Appointment & Video Scheduler.",
+    "date": "2025-04-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-037",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-24"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-038",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech fintech build, I previously delivered FinTech Expense Approval Dashboard (Cut finance team reconciliation time by 50%.).",
+    "date": "2025-02-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-039",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Node.js and TypeScript systems, including GraphQL API Gateway Migration.",
+    "date": "2025-12-23"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-040",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS automated build, I previously delivered Automated E2E QA Suite with Playwright (Eliminated 90% of manual pre-release smoke testing.).",
+    "date": "2025-01-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-041",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Vendor Marketplace Onboarding Flow.",
+    "date": "2025-10-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-042",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-10"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-043",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-23"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-044",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-045",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-046",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-20"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-047",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-048",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-28"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-049",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-27"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-050",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-051",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-052",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-053",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-054",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-055",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Node.js and TypeScript systems, including GraphQL API Gateway Migration.",
+    "date": "2025-10-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-056",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS automated build, I previously delivered Automated E2E QA Suite with Playwright (Eliminated 90% of manual pre-release smoke testing.).",
+    "date": "2025-10-04"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-057",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Vendor Marketplace Onboarding Flow.",
+    "date": "2025-09-10"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-058",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-06"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-059",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-06"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-060",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-10"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-061",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-062",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-063",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-064",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Role-Based Access Control Audit UI.",
+    "date": "2025-07-21"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-065",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS multi-tenant build, I previously delivered Multi-Tenant B2B SaaS Billing Portal (Handled 1,200+ active subscriptions with zero webhook drift.).",
+    "date": "2025-07-01"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-066",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-24"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-067",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Headless E-commerce Storefront & Checkout.",
+    "date": "2025-09-24"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-068",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and Node.js systems, including Telehealth Appointment & Video Scheduler.",
+    "date": "2025-10-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-069",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Interactive EdTech Course & Quiz Platform.",
+    "date": "2025-11-20"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-070",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-071",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-072",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-073",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce vendor build, I previously delivered Vendor Marketplace Onboarding Flow (Reduced vendor drop-off during KYC by 28%.).",
+    "date": "2025-05-27"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-074",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS analytics build, I previously delivered Analytics & Reporting Portal for Logistics (Rendered 100k-row paginated tables in under 150ms.).",
+    "date": "2025-06-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-075",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-076",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-20"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-077",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Node.js and Redis systems, including SaaS Usage Metering & Quota Engine.",
+    "date": "2025-01-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-078",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-079",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-080",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-081",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Multi-Tenant B2B SaaS Billing Portal.",
+    "date": "2025-09-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-082",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-083",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-01"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-084",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-04"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-085",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-086",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-11"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-087",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-09"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-088",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-089",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-090",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-28"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-091",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-02"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-092",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-16"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-093",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-01"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-094",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-09-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-095",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-096",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-27"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-097",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-098",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Real-Time Collaborative Kanban Board.",
+    "date": "2025-02-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-099",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Headless E-commerce Storefront & Checkout.",
+    "date": "2025-10-11"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-100",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-02"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-101",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-102",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech fintech build, I previously delivered FinTech Expense Approval Dashboard (Cut finance team reconciliation time by 50%.).",
+    "date": "2025-11-09"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-103",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS graphql build, I previously delivered GraphQL API Gateway Migration (Reduced mobile payload size by 41%.).",
+    "date": "2025-11-20"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-104",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS automated build, I previously delivered Automated E2E QA Suite with Playwright (Eliminated 90% of manual pre-release smoke testing.).",
+    "date": "2025-12-11"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-105",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce vendor build, I previously delivered Vendor Marketplace Onboarding Flow (Reduced vendor drop-off during KYC by 28%.).",
+    "date": "2025-07-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-106",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS analytics build, I previously delivered Analytics & Reporting Portal for Logistics (Rendered 100k-row paginated tables in under 150ms.).",
+    "date": "2025-11-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-107",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Design System & Accessible Component Library.",
+    "date": "2025-10-15"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-108",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-109",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS saas build, I previously delivered SaaS Usage Metering & Quota Engine (Tracked 20M API events/day with sub-second quota checks.).",
+    "date": "2025-06-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-110",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-01"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-111",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-15"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-112",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-06"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-113",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS multi-tenant build, I previously delivered Multi-Tenant B2B SaaS Billing Portal (Handled 1,200+ active subscriptions with zero webhook drift.).",
+    "date": "2025-08-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-114",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-115",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce headless build, I previously delivered Headless E-commerce Storefront & Checkout (Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.).",
+    "date": "2025-03-12"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-116",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your HealthTech telehealth build, I previously delivered Telehealth Appointment & Video Scheduler (Zero missed booking race conditions via advisory locks.).",
+    "date": "2025-02-24"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-117",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-12-21"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-118",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-02"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-119",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-10-23"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-120",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-02-25"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-121",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-122",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-123",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Design System & Accessible Component Library.",
+    "date": "2025-04-07"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-124",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar FastAPI and React systems, including Webhook Replay & Dead-Letter Admin Console.",
+    "date": "2025-04-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-125",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-12"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-126",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-07"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-127",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and FastAPI systems, including Live Auction Bidding WebSocket App.",
+    "date": "2025-07-04"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-128",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Role-Based Access Control Audit UI.",
+    "date": "2025-02-15"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-129",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS multi-tenant build, I previously delivered Multi-Tenant B2B SaaS Billing Portal (Handled 1,200+ active subscriptions with zero webhook drift.).",
+    "date": "2025-03-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-130",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS real-time build, I previously delivered Real-Time Collaborative Kanban Board (Supported 500 concurrent WebSocket users with optimistic UI.).",
+    "date": "2025-10-06"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-131",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce headless build, I previously delivered Headless E-commerce Storefront & Checkout (Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.).",
+    "date": "2025-02-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-132",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-04-27"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-133",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-11-11"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-134",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech fintech build, I previously delivered FinTech Expense Approval Dashboard (Cut finance team reconciliation time by 50%.).",
+    "date": "2025-08-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-135",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "GraphQL API Gateway Migration",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-06-13"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-136",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Automated E2E QA Suite with Playwright",
+    "industry": "SaaS",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS automated build, I previously delivered Automated E2E QA Suite with Playwright (Eliminated 90% of manual pre-release smoke testing.).",
+    "date": "2025-04-15"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-137",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Vendor Marketplace Onboarding Flow",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "outcome": "won",
+    "text": "For your E-commerce vendor build, I previously delivered Vendor Marketplace Onboarding Flow (Reduced vendor drop-off during KYC by 28%.).",
+    "date": "2025-11-18"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-138",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Analytics & Reporting Portal for Logistics",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and TypeScript systems, including Analytics & Reporting Portal for Logistics.",
+    "date": "2025-05-19"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-139",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Design System & Accessible Component Library",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your SaaS design build, I previously delivered Design System & Accessible Component Library (WCAG 2.1 AA compliant across 38 reusable components.).",
+    "date": "2025-03-28"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-140",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Webhook Replay & Dead-Letter Admin Console",
+    "industry": "FinTech",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-01-05"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-141",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "SaaS Usage Metering & Quota Engine",
+    "industry": "SaaS",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-05-17"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-142",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Patient Intake Form Builder",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your HealthTech patient build, I previously delivered Patient Intake Form Builder (Dynamic JSON-schema forms with offline draft saving.).",
+    "date": "2025-02-14"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-143",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Live Auction Bidding WebSocket App",
+    "industry": "E-commerce",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar React and FastAPI systems, including Live Auction Bidding WebSocket App.",
+    "date": "2025-01-08"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-144",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Role-Based Access Control Audit UI",
+    "industry": "FinTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "outcome": "replied",
+    "text": "I've built similar Next.js and TypeScript systems, including Role-Based Access Control Audit UI.",
+    "date": "2025-11-09"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-145",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Multi-Tenant B2B SaaS Billing Portal",
+    "industry": "SaaS",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-07-16"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-146",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Real-Time Collaborative Kanban Board",
+    "industry": "SaaS",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-15"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-147",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Headless E-commerce Storefront & Checkout",
+    "industry": "E-commerce",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-08-22"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-148",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Telehealth Appointment & Video Scheduler",
+    "industry": "HealthTech",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "outcome": "ignored",
+    "text": "Dear Sir/Madam, I am passionate and excited to apply for your job posting and guarantee 100% satisfaction.",
+    "date": "2025-03-03"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-149",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "Interactive EdTech Course & Quiz Platform",
+    "industry": "EdTech",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "outcome": "won",
+    "text": "For your EdTech interactive build, I previously delivered Interactive EdTech Course & Quiz Platform (Served 8,000 monthly active students.).",
+    "date": "2025-03-21"
+  },
+  {
+    "proposal_id": "fullstack_web_dev-prop-150",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "past_proposal",
+    "project": "FinTech Expense Approval Dashboard",
+    "industry": "FinTech",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "outcome": "won",
+    "text": "For your FinTech fintech build, I previously delivered FinTech Expense Approval Dashboard (Cut finance team reconciliation time by 50%.).",
+    "date": "2025-08-27"
+  }
+]

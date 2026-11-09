@@ -1,0 +1,358 @@
+[
+  {
+    "evidence_id": "data_analyst-case-01",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "dbt Core Warehouse Modernization",
+    "summary": "Delivered dbt core warehouse modernization for a E-commerce client. Implemented modular SQL transformation models with lineage tests in production. Outcome: Cut warehouse query spend by 38% and added 95 schema tests.",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-09-15",
+    "outcome": "Cut warehouse query spend by 38% and added 95 schema tests.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-01.md"
+  },
+  {
+    "evidence_id": "data_analyst-repo-01",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "repo",
+    "title": "Repo: dbt Core Warehouse Modernization",
+    "summary": "Repository implementing dbt Core Warehouse Modernization with dbt, SQL, BigQuery, Airflow. Cut warehouse query spend by 38% and added 95 schema tests.",
+    "skills": [
+      "dbt",
+      "SQL",
+      "BigQuery",
+      "Airflow"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-09-15",
+    "outcome": "Cut warehouse query spend by 38% and added 95 schema tests.",
+    "source": "github://abdth3/data_analyst-repo-01"
+  },
+  {
+    "evidence_id": "data_analyst-case-02",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "SaaS Cohort Retention & Churn Dashboard",
+    "summary": "Delivered saas cohort retention & churn dashboard for a SaaS client. Implemented cohort retention & LTV modeling in production. Outcome: Identified 30-day onboarding drop-off driving 11% churn.",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "industry": "SaaS",
+    "date": "2024-02-15",
+    "outcome": "Identified 30-day onboarding drop-off driving 11% churn.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-02.md"
+  },
+  {
+    "evidence_id": "data_analyst-repo-02",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "repo",
+    "title": "Repo: SaaS Cohort Retention & Churn Dashboard",
+    "summary": "Repository implementing SaaS Cohort Retention & Churn Dashboard with SQL, Python, pandas, PowerBI. Identified 30-day onboarding drop-off driving 11% churn.",
+    "skills": [
+      "SQL",
+      "Python",
+      "pandas",
+      "PowerBI"
+    ],
+    "industry": "SaaS",
+    "date": "2024-02-15",
+    "outcome": "Identified 30-day onboarding drop-off driving 11% churn.",
+    "source": "github://abdth3/data_analyst-repo-02"
+  },
+  {
+    "evidence_id": "data_analyst-case-03",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Checkout Funnel A/B Experiment Analysis",
+    "summary": "Delivered checkout funnel a/b experiment analysis for a E-commerce client. Implemented sequential significance testing for conversion funnels in production. Outcome: Evaluated 140k sessions; prevented premature rollout of underpowered variant.",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-04-15",
+    "outcome": "Evaluated 140k sessions; prevented premature rollout of underpowered variant.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-03.md"
+  },
+  {
+    "evidence_id": "data_analyst-repo-03",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "repo",
+    "title": "Repo: Checkout Funnel A/B Experiment Analysis",
+    "summary": "Repository implementing Checkout Funnel A/B Experiment Analysis with A/B Testing, Python, SQL, pandas. Evaluated 140k sessions; prevented premature rollout of underpowered variant.",
+    "skills": [
+      "A/B Testing",
+      "Python",
+      "SQL",
+      "pandas"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-04-15",
+    "outcome": "Evaluated 140k sessions; prevented premature rollout of underpowered variant.",
+    "source": "github://abdth3/data_analyst-repo-03"
+  },
+  {
+    "evidence_id": "data_analyst-case-04",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Executive Revenue & Unit Economics BI",
+    "summary": "Delivered executive revenue & unit economics bi for a FinTech client. Implemented modular SQL transformation models with lineage tests in production. Outcome: Replaced 12 manual weekly spreadsheets with live automated refresh.",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "industry": "FinTech",
+    "date": "2025-09-15",
+    "outcome": "Replaced 12 manual weekly spreadsheets with live automated refresh.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-04.md"
+  },
+  {
+    "evidence_id": "data_analyst-repo-04",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "repo",
+    "title": "Repo: Executive Revenue & Unit Economics BI",
+    "summary": "Repository implementing Executive Revenue & Unit Economics BI with PowerBI, SQL, PostgreSQL, dbt. Replaced 12 manual weekly spreadsheets with live automated refresh.",
+    "skills": [
+      "PowerBI",
+      "SQL",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "industry": "FinTech",
+    "date": "2025-09-15",
+    "outcome": "Replaced 12 manual weekly spreadsheets with live automated refresh.",
+    "source": "github://abdth3/data_analyst-repo-04"
+  },
+  {
+    "evidence_id": "data_analyst-case-05",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Marketing Attribution Multi-Touch Model",
+    "summary": "Delivered marketing attribution multi-touch model for a Marketing client. Outcome: Reallocated 22% of ad spend toward higher-LTV channels.",
+    "skills": [
+      "Python",
+      "SQL",
+      "BigQuery",
+      "Tableau"
+    ],
+    "industry": "Marketing",
+    "date": "2025-03-15",
+    "outcome": "Reallocated 22% of ad spend toward higher-LTV channels.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-05.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-06",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Supply Chain Lead-Time Variance Report",
+    "summary": "Delivered supply chain lead-time variance report for a Logistics client. Implemented cohort retention & LTV modeling in production. Outcome: Pinpointed 4 bottleneck hubs responsible for 60% of delays.",
+    "skills": [
+      "SQL",
+      "pandas",
+      "Tableau",
+      "Excel"
+    ],
+    "industry": "Logistics",
+    "date": "2026-09-15",
+    "outcome": "Pinpointed 4 bottleneck hubs responsible for 60% of delays.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-06.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-07",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Airflow ETL Pipeline for Stripe & HubSpot",
+    "summary": "Delivered airflow etl pipeline for stripe & hubspot for a SaaS client. Implemented modular SQL transformation models with lineage tests in production. Outcome: 99.8% SLA across 180 daily sync runs.",
+    "skills": [
+      "Airflow",
+      "Python",
+      "PostgreSQL",
+      "dbt"
+    ],
+    "industry": "SaaS",
+    "date": "2025-08-15",
+    "outcome": "99.8% SLA across 180 daily sync runs.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-07.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-08",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Looker Semantic Layer for Product Analytics",
+    "summary": "Delivered looker semantic layer for product analytics for a SaaS client. Outcome: Unified 4 conflicting definitions of 'Active User'.",
+    "skills": [
+      "Looker",
+      "SQL",
+      "BigQuery"
+    ],
+    "industry": "SaaS",
+    "date": "2026-10-15",
+    "outcome": "Unified 4 conflicting definitions of 'Active User'.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-08.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-09",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Customer Segmentation with RFM & K-Means",
+    "summary": "Delivered customer segmentation with rfm & k-means for a E-commerce client. Implemented cohort retention & LTV modeling in production. Outcome: Boosted email campaign repeat purchase rate by 9%.",
+    "skills": [
+      "Python",
+      "pandas",
+      "SQL",
+      "Tableau"
+    ],
+    "industry": "E-commerce",
+    "date": "2025-04-15",
+    "outcome": "Boosted email campaign repeat purchase rate by 9%.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-09.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-10",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Financial Reconciliation & Variance Audit",
+    "summary": "Delivered financial reconciliation & variance audit for a FinTech client. Outcome: Automated monthly close checks across 400k ledger rows.",
+    "skills": [
+      "SQL",
+      "Excel",
+      "Python",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2025-04-15",
+    "outcome": "Automated monthly close checks across 400k ledger rows.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-10.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-11",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Subscription Pricing Elasticity Study",
+    "summary": "Delivered subscription pricing elasticity study for a SaaS client. Implemented sequential significance testing for conversion funnels in production. Outcome: Supported tier restructure increasing ARPU by 8%.",
+    "skills": [
+      "Python",
+      "A/B Testing",
+      "SQL",
+      "pandas"
+    ],
+    "industry": "SaaS",
+    "date": "2026-04-15",
+    "outcome": "Supported tier restructure increasing ARPU by 8%.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-11.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-12",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Warehouse Data Quality Monitoring",
+    "summary": "Delivered warehouse data quality monitoring for a Logistics client. Implemented modular SQL transformation models with lineage tests in production. Outcome: Alerted Slack within 10 minutes of upstream schema breaks.",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "SQL"
+    ],
+    "industry": "Logistics",
+    "date": "2024-09-15",
+    "outcome": "Alerted Slack within 10 minutes of upstream schema breaks.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-12.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-13",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Ad Spend & ROAS Daily Tracker",
+    "summary": "Delivered ad spend & roas daily tracker for a Marketing client. Implemented executive KPI drill-down dashboards in production. Outcome: Consolidated Meta, Google Ads, and TikTok metrics.",
+    "skills": [
+      "BigQuery",
+      "SQL",
+      "PowerBI"
+    ],
+    "industry": "Marketing",
+    "date": "2024-09-15",
+    "outcome": "Consolidated Meta, Google Ads, and TikTok metrics.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-13.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-14",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Inventory Aging & Dead-Stock Dashboard",
+    "summary": "Delivered inventory aging & dead-stock dashboard for a E-commerce client. Outcome: Freed $85k in working capital by flagging slow-moving SKUs.",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-06-15",
+    "outcome": "Freed $85k in working capital by flagging slow-moving SKUs.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-14.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-15",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Support SLA & Ticket Backlog Analytics",
+    "summary": "Delivered support sla & ticket backlog analytics for a SaaS client. Implemented executive KPI drill-down dashboards in production. Outcome: Reduced median first-response time by 31%.",
+    "skills": [
+      "PostgreSQL",
+      "SQL",
+      "PowerBI",
+      "Python"
+    ],
+    "industry": "SaaS",
+    "date": "2025-01-15",
+    "outcome": "Reduced median first-response time by 31%.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-15.md"
+  },
+  {
+    "evidence_id": "data_analyst-case-16",
+    "freelancer_id": "persona-data-analyst",
+    "persona": "data_analyst",
+    "type": "case_study",
+    "title": "Survey & NPS Text Sentiment Aggregation",
+    "summary": "Delivered survey & nps text sentiment aggregation for a Marketing client. Implemented cohort retention & LTV modeling in production. Outcome: Summarized 12k quarterly responses by product area.",
+    "skills": [
+      "Python",
+      "pandas",
+      "Tableau"
+    ],
+    "industry": "Marketing",
+    "date": "2025-04-15",
+    "outcome": "Summarized 12k quarterly responses by product area.",
+    "source": "data/personas/data_analyst/case_studies/data_analyst-case-16.md"
+  }
+]

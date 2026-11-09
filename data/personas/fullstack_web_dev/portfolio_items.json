@@ -1,0 +1,368 @@
+[
+  {
+    "evidence_id": "fullstack_web_dev-case-01",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Multi-Tenant B2B SaaS Billing Portal",
+    "summary": "Delivered multi-tenant b2b saas billing portal for a SaaS client. Implemented subscription billing & webhook reconciliation in production. Outcome: Handled 1,200+ active subscriptions with zero webhook drift.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "industry": "SaaS",
+    "date": "2026-03-15",
+    "outcome": "Handled 1,200+ active subscriptions with zero webhook drift.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-01.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-repo-01",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "repo",
+    "title": "Repo: Multi-Tenant B2B SaaS Billing Portal",
+    "summary": "Repository implementing Multi-Tenant B2B SaaS Billing Portal with Next.js, TypeScript, Stripe, PostgreSQL, TailwindCSS. Handled 1,200+ active subscriptions with zero webhook drift.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "industry": "SaaS",
+    "date": "2026-03-15",
+    "outcome": "Handled 1,200+ active subscriptions with zero webhook drift.",
+    "source": "github://abdth3/fullstack_web_dev-repo-01"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-02",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Real-Time Collaborative Kanban Board",
+    "summary": "Delivered real-time collaborative kanban board for a SaaS client. Implemented server-sent events live dashboard in production. Outcome: Supported 500 concurrent WebSocket users with optimistic UI.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "industry": "SaaS",
+    "date": "2026-09-15",
+    "outcome": "Supported 500 concurrent WebSocket users with optimistic UI.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-02.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-repo-02",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "repo",
+    "title": "Repo: Real-Time Collaborative Kanban Board",
+    "summary": "Repository implementing Real-Time Collaborative Kanban Board with React, TypeScript, FastAPI, Redis, PostgreSQL. Supported 500 concurrent WebSocket users with optimistic UI.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "industry": "SaaS",
+    "date": "2026-09-15",
+    "outcome": "Supported 500 concurrent WebSocket users with optimistic UI.",
+    "source": "github://abdth3/fullstack_web_dev-repo-02"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-03",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Headless E-commerce Storefront & Checkout",
+    "summary": "Delivered headless e-commerce storefront & checkout for a E-commerce client. Implemented subscription billing & webhook reconciliation in production. Outcome: Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "industry": "E-commerce",
+    "date": "2024-04-15",
+    "outcome": "Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-03.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-repo-03",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "repo",
+    "title": "Repo: Headless E-commerce Storefront & Checkout",
+    "summary": "Repository implementing Headless E-commerce Storefront & Checkout with Next.js, TypeScript, Stripe, TailwindCSS. Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "Stripe",
+      "TailwindCSS"
+    ],
+    "industry": "E-commerce",
+    "date": "2024-04-15",
+    "outcome": "Improved Lighthouse performance from 58 to 96 and checkout conversion by 12%.",
+    "source": "github://abdth3/fullstack_web_dev-repo-03"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-04",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Telehealth Appointment & Video Scheduler",
+    "summary": "Delivered telehealth appointment & video scheduler for a HealthTech client. Implemented end-to-end browser regression suite in production. Outcome: Zero missed booking race conditions via advisory locks.",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "industry": "HealthTech",
+    "date": "2026-07-15",
+    "outcome": "Zero missed booking race conditions via advisory locks.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-04.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-repo-04",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "repo",
+    "title": "Repo: Telehealth Appointment & Video Scheduler",
+    "summary": "Repository implementing Telehealth Appointment & Video Scheduler with React, Node.js, PostgreSQL, Docker, Playwright. Zero missed booking race conditions via advisory locks.",
+    "skills": [
+      "React",
+      "Node.js",
+      "PostgreSQL",
+      "Docker",
+      "Playwright"
+    ],
+    "industry": "HealthTech",
+    "date": "2026-07-15",
+    "outcome": "Zero missed booking race conditions via advisory locks.",
+    "source": "github://abdth3/fullstack_web_dev-repo-04"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-05",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Interactive EdTech Course & Quiz Platform",
+    "summary": "Delivered interactive edtech course & quiz platform for a EdTech client. Implemented type-safe OpenAPI client generation in production. Outcome: Served 8,000 monthly active students.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "industry": "EdTech",
+    "date": "2025-08-15",
+    "outcome": "Served 8,000 monthly active students.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-05.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-06",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "FinTech Expense Approval Dashboard",
+    "summary": "Delivered fintech expense approval dashboard for a FinTech client. Implemented end-to-end browser regression suite in production. Outcome: Cut finance team reconciliation time by 50%.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "PostgreSQL",
+      "Playwright"
+    ],
+    "industry": "FinTech",
+    "date": "2026-08-15",
+    "outcome": "Cut finance team reconciliation time by 50%.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-06.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-07",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "GraphQL API Gateway Migration",
+    "summary": "Delivered graphql api gateway migration for a SaaS client. Implemented type-safe OpenAPI client generation in production. Outcome: Reduced mobile payload size by 41%.",
+    "skills": [
+      "Node.js",
+      "TypeScript",
+      "GraphQL",
+      "Redis",
+      "Docker"
+    ],
+    "industry": "SaaS",
+    "date": "2025-05-15",
+    "outcome": "Reduced mobile payload size by 41%.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-07.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-08",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Automated E2E QA Suite with Playwright",
+    "summary": "Delivered automated e2e qa suite with playwright for a SaaS client. Implemented end-to-end browser regression suite in production. Outcome: Eliminated 90% of manual pre-release smoke testing.",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "Docker"
+    ],
+    "industry": "SaaS",
+    "date": "2026-02-15",
+    "outcome": "Eliminated 90% of manual pre-release smoke testing.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-08.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-09",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Vendor Marketplace Onboarding Flow",
+    "summary": "Delivered vendor marketplace onboarding flow for a E-commerce client. Implemented subscription billing & webhook reconciliation in production. Outcome: Reduced vendor drop-off during KYC by 28%.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "FastAPI",
+      "Stripe"
+    ],
+    "industry": "E-commerce",
+    "date": "2026-07-15",
+    "outcome": "Reduced vendor drop-off during KYC by 28%.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-09.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-10",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Analytics & Reporting Portal for Logistics",
+    "summary": "Delivered analytics & reporting portal for logistics for a SaaS client. Implemented server-sent events live dashboard in production. Outcome: Rendered 100k-row paginated tables in under 150ms.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "FastAPI"
+    ],
+    "industry": "SaaS",
+    "date": "2024-10-15",
+    "outcome": "Rendered 100k-row paginated tables in under 150ms.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-10.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-11",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Design System & Accessible Component Library",
+    "summary": "Delivered design system & accessible component library for a SaaS client. Implemented end-to-end browser regression suite in production. Outcome: WCAG 2.1 AA compliant across 38 reusable components.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "TailwindCSS",
+      "Playwright"
+    ],
+    "industry": "SaaS",
+    "date": "2026-04-15",
+    "outcome": "WCAG 2.1 AA compliant across 38 reusable components.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-11.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-12",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Webhook Replay & Dead-Letter Admin Console",
+    "summary": "Delivered webhook replay & dead-letter admin console for a FinTech client. Implemented server-sent events live dashboard in production. Outcome: Allowed ops team to inspect and replay failed events safely.",
+    "skills": [
+      "FastAPI",
+      "React",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2025-06-15",
+    "outcome": "Allowed ops team to inspect and replay failed events safely.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-12.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-13",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "SaaS Usage Metering & Quota Engine",
+    "summary": "Delivered saas usage metering & quota engine for a SaaS client. Implemented subscription billing & webhook reconciliation in production. Outcome: Tracked 20M API events/day with sub-second quota checks.",
+    "skills": [
+      "Node.js",
+      "Redis",
+      "PostgreSQL",
+      "Stripe"
+    ],
+    "industry": "SaaS",
+    "date": "2026-06-15",
+    "outcome": "Tracked 20M API events/day with sub-second quota checks.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-13.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-14",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Patient Intake Form Builder",
+    "summary": "Delivered patient intake form builder for a HealthTech client. Implemented server-sent events live dashboard in production. Outcome: Dynamic JSON-schema forms with offline draft saving.",
+    "skills": [
+      "React",
+      "TypeScript",
+      "PostgreSQL",
+      "TailwindCSS"
+    ],
+    "industry": "HealthTech",
+    "date": "2024-01-15",
+    "outcome": "Dynamic JSON-schema forms with offline draft saving.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-14.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-15",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Live Auction Bidding WebSocket App",
+    "summary": "Delivered live auction bidding websocket app for a E-commerce client. Implemented server-sent events live dashboard in production. Outcome: Handled 2,000 bids/minute with idempotent locking.",
+    "skills": [
+      "React",
+      "FastAPI",
+      "Redis",
+      "Docker"
+    ],
+    "industry": "E-commerce",
+    "date": "2024-05-15",
+    "outcome": "Handled 2,000 bids/minute with idempotent locking.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-15.md"
+  },
+  {
+    "evidence_id": "fullstack_web_dev-case-16",
+    "freelancer_id": "persona-fullstack",
+    "persona": "fullstack_web_dev",
+    "type": "case_study",
+    "title": "Role-Based Access Control Audit UI",
+    "summary": "Delivered role-based access control audit ui for a FinTech client. Implemented type-safe OpenAPI client generation in production. Outcome: Full audit trail export for SOC2 readiness.",
+    "skills": [
+      "Next.js",
+      "TypeScript",
+      "PostgreSQL"
+    ],
+    "industry": "FinTech",
+    "date": "2026-02-15",
+    "outcome": "Full audit trail export for SOC2 readiness.",
+    "source": "data/personas/fullstack_web_dev/case_studies/fullstack_web_dev-case-16.md"
+  }
+]

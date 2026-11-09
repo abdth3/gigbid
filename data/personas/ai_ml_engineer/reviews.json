@@ -1,0 +1,142 @@
+[
+  {
+    "review_id": "ai_ml_engineer-rev-01",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Customer Churn Prediction Pipeline",
+    "industry": "FinTech",
+    "rating": 4.8,
+    "text": "Great work on Customer Churn Prediction Pipeline. Reduced false negatives by 24% on 120k accounts using calibrated threshold tuning. Clear communication and on-time delivery.",
+    "skills": [
+      "Python",
+      "scikit-learn",
+      "XGBoost",
+      "FastAPI",
+      "PostgreSQL"
+    ],
+    "date": "2025-07-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-02",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Multi-Agent Support Triage with LangGraph",
+    "industry": "SaaS",
+    "rating": 4.9,
+    "text": "Great work on Multi-Agent Support Triage with LangGraph. Automated 62% of L1 tickets with human-in-the-loop escalation. Clear communication and on-time delivery.",
+    "skills": [
+      "LangGraph",
+      "Python",
+      "FastAPI",
+      "Qdrant",
+      "Redis"
+    ],
+    "date": "2025-06-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-03",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Hybrid BM25 + Dense Legal Document RAG",
+    "industry": "LegalTech",
+    "rating": 4.9,
+    "text": "Great work on Hybrid BM25 + Dense Legal Document RAG. Improved citation recall@5 from 0.58 to 0.89 across 45k contracts. Clear communication and on-time delivery.",
+    "skills": [
+      "RAG",
+      "Qdrant",
+      "Python",
+      "HuggingFace",
+      "BM25"
+    ],
+    "date": "2025-09-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-04",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Clinical Note Entity Extraction",
+    "industry": "HealthTech",
+    "rating": 4.9,
+    "text": "Great work on Clinical Note Entity Extraction. Achieved 0.91 F1 on de-identified discharge summaries. Clear communication and on-time delivery.",
+    "skills": [
+      "PyTorch",
+      "HuggingFace",
+      "Python",
+      "Docker"
+    ],
+    "date": "2025-01-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-05",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Real-Time Fraud Scoring Microservice",
+    "industry": "FinTech",
+    "rating": 4.9,
+    "text": "Great work on Real-Time Fraud Scoring Microservice. Served p95 latency of 38ms at 400 req/s. Clear communication and on-time delivery.",
+    "skills": [
+      "FastAPI",
+      "scikit-learn",
+      "Redis",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "date": "2025-11-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-06",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "E-commerce Visual Search Engine",
+    "industry": "E-commerce",
+    "rating": 4.9,
+    "text": "Great work on E-commerce Visual Search Engine. Increased product discovery click-through rate by 18%. Clear communication and on-time delivery.",
+    "skills": [
+      "PyTorch",
+      "Qdrant",
+      "FastAPI",
+      "Python"
+    ],
+    "date": "2025-11-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-07",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "Automated Invoice OCR & Line-Item Parser",
+    "industry": "FinTech",
+    "rating": 4.8,
+    "text": "Great work on Automated Invoice OCR & Line-Item Parser. Processed 15,000 PDFs/month at 97.4% field accuracy. Clear communication and on-time delivery.",
+    "skills": [
+      "Python",
+      "PyTorch",
+      "Celery",
+      "PostgreSQL"
+    ],
+    "date": "2025-03-10"
+  },
+  {
+    "review_id": "ai_ml_engineer-rev-08",
+    "freelancer_id": "persona-ai-ml",
+    "persona": "ai_ml_engineer",
+    "type": "review",
+    "project": "LLM Evaluation & Guardrail Harness",
+    "industry": "SaaS",
+    "rating": 4.9,
+    "text": "Great work on LLM Evaluation & Guardrail Harness. Caught 94% of prompt-injection and hallucination cases in CI. Clear communication and on-time delivery.",
+    "skills": [
+      "Python",
+      "LangGraph",
+      "RAG",
+      "FastAPI"
+    ],
+    "date": "2025-04-10"
+  }
+]
