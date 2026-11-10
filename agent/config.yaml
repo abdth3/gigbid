@@ -1,0 +1,55 @@
+marketplace:
+  mode: gigsim # gigsim | upwork_live
+  max_requests_per_minute: 30
+  live_poll_interval_minutes: 30
+
+rag:
+  variant: v3_rerank # v0_naive | v1_decomp | v2_hybrid | v3_rerank | v4_outcome | v5_multivector | v8_corrective | v9_skill_graph
+  top_k: 5
+
+models:
+  profile: open # open (required) | paid (optional)
+  profiles:
+    open:
+      provider: local_open # local_open | ollama | groq | openrouter
+      scout: qwen3-4b
+      analyst: qwen3-4b
+      risk_assessor: qwen3-4b
+      fit_matcher: qwen3-4b
+      pricing: qwen3-4b
+      writer: qwen3-32b
+      critic: qwen3-32b
+      compliance: qwen3-4b
+      client_liaison: qwen3-32b
+      fallback_cheap: qwen3-4b
+    paid:
+      provider: gemini # gemini | openai
+      scout: gemini-2.5-flash-lite
+      analyst: gemini-2.5-flash-lite
+      risk_assessor: gemini-2.5-flash-lite
+      fit_matcher: gemini-2.5-flash-lite
+      pricing: gemini-2.5-flash-lite
+      writer: gemini-2.5-pro
+      critic: gemini-2.5-pro
+      compliance: gemini-2.5-flash-lite
+      client_liaison: gemini-2.5-pro
+      fallback_cheap: gemini-2.5-flash-lite
+  embeddings: nomic-embed-text
+  reranker: bge-reranker-v2-m3
+
+budgets:
+  max_graph_steps: 30
+  max_revisions: 2
+  max_tokens_per_job: 12000
+  p95_latency_budget_s: 4.5
+  cost_per_job_budget_usd: 0.005
+  cost_per_proposal_budget_usd: 0.015
+
+thresholds:
+  minimum_fit_score: 0.55
+  maximum_risk_score: 0.70
+
+policy_nov2:
+  max_cover_letter_chars: 1800
+  high_value_bid_threshold_usd: 500
+  high_value_connects_surcharge: 4
