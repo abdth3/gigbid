@@ -1,0 +1,114 @@
+{
+  "marketplace.create_proposal_draft": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": false,
+    "required_params": [
+      "job_id",
+      "cover_letter",
+      "bid_amount_usd",
+      "idempotency_key"
+    ]
+  },
+  "marketplace.get_client_history": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": [
+      "client_id"
+    ]
+  },
+  "marketplace.get_connects_balance": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": []
+  },
+  "marketplace.get_job": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": [
+      "job_id"
+    ]
+  },
+  "marketplace.list_messages": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": [
+      "job_id"
+    ]
+  },
+  "marketplace.search_jobs": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": []
+  },
+  "marketplace.send_message": {
+    "destructiveHint": true,
+    "idempotentHint": true,
+    "readOnlyHint": false,
+    "required_params": [
+      "job_id",
+      "text",
+      "idempotency_key"
+    ]
+  },
+  "marketplace.submit_proposal": {
+    "destructiveHint": true,
+    "idempotentHint": true,
+    "readOnlyHint": false,
+    "required_params": [
+      "draft_id",
+      "idempotency_key"
+    ]
+  },
+  "portfolio.get_case_study": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": [
+      "id"
+    ]
+  },
+  "portfolio.list_skills": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": []
+  },
+  "portfolio.search_evidence": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": [
+      "requirement"
+    ]
+  },
+  "workspace.create_email_draft": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": false,
+    "required_params": [
+      "subject",
+      "body"
+    ]
+  },
+  "workspace.create_interview_hold": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": false,
+    "required_params": [
+      "job_id",
+      "slot_iso"
+    ]
+  },
+  "workspace.get_free_slots": {
+    "destructiveHint": false,
+    "idempotentHint": true,
+    "readOnlyHint": true,
+    "required_params": []
+  }
+}

@@ -1,0 +1,27 @@
+name: Smoke Eval Gate
+
+on:
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  smoke-eval:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -e ".[dev]"
+      - name: Run 30-job smoke evaluation & enforce quality thresholds
+        run: |
+          python -c "
+          import asyncio, json
+          from evals.runners.multi_agent_eval import run_multi_agent_eval
+          res = asyncio.run(run_multi_agent_eval(limit=30))
+          hb = res['hand_built_details']
+          assert hb['unsupported_claims_per_proposal'] <= 0.05, f'Unsupported claims rose: {hb}'
+          assert hb['bid_or_skip_accuracy'] >= 0.85, f'Bid-or-skip accuracy dropped: {hb}'
+          print('Smoke eval passed:', hb)
+          "

@@ -1,0 +1,66 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: gigbid
+      POSTGRES_PASSWORD: gigbid
+      POSTGRES_DB: gigbid
+    ports:
+      - "5432:5432"
+
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+
+  qdrant:
+    image: qdrant/qdrant:latest
+    ports:
+      - "6333:6333"
+
+  ollama:
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+
+  gigsim:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.api
+    command: uvicorn gigsim.app:app --host 0.0.0.0 --port 8081
+    ports:
+      - "8081:8081"
+
+  api:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.api
+    env_file:
+      - ../../.env.example
+    environment:
+      GIGSIM_USE_HTTP: "1"
+      GIGSIM_BASE_URL: http://gigsim:8081
+    depends_on:
+      - postgres
+      - redis
+      - gigsim
+    ports:
+      - "8000:8000"
+
+  worker:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.api
+    command: python -m worker.tasks
+    depends_on:
+      - redis
+      - gigsim
+
+  web:
+    build:
+      context: ../..
+      dockerfile: infra/docker/Dockerfile.web
+    depends_on:
+      - api
+    ports:
+      - "5173:5173"
