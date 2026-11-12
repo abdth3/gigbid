@@ -85,10 +85,10 @@ export const InboxPage: React.FC = () => {
                 </div>
                 <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
                   <span style={{ background: '#1e293b', padding: '4px 8px', borderRadius: 6, fontSize: '0.82em' }}>
-                    Fit: {(j.fit_score * 100).toFixed(0)}%
+                    {j.recommended_action === 'pending' ? 'Fit: Not analyzed' : `Fit: ${(j.fit_score * 100).toFixed(0)}%`}
                   </span>
-                  <span style={{ background: j.is_scam || j.risk_score > 0.5 ? '#7f1d1d' : '#14532d', padding: '4px 8px', borderRadius: 6, fontSize: '0.82em' }}>
-                    {j.is_scam ? 'SCAM RISK' : `Risk: ${j.risk_score}`}
+                  <span style={{ background: j.is_scam || j.risk_score > 0.5 ? '#7f1d1d' : (j.recommended_action === 'pending' ? '#1e293b' : '#14532d'), padding: '4px 8px', borderRadius: 6, fontSize: '0.82em' }}>
+                    {j.recommended_action === 'pending' ? 'Risk: Pending' : (j.is_scam ? 'SCAM RISK' : `Risk: ${j.risk_score}`)}
                   </span>
                   <span style={{ background: '#334155', padding: '4px 8px', borderRadius: 6, fontSize: '0.82em' }}>
                     {j.recommended_action.toUpperCase()}

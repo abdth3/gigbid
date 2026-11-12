@@ -28,7 +28,16 @@ def list_jobs(query: str = "", limit: int = 30, user: dict = Depends(get_current
 
     persona = user.get("persona", "ai_ml_engineer")
     store = get_gigsim_store()
-    raw_jobs = store.search_jobs(query=query, limit=limit, persona=persona)
+    all_persona_jobs = store.search_jobs(query=query, limit=200, persona=persona)
+    # Surface a balanced mix at the top: high-fit jobs first, then 1 scam, 1 injection, then rest
+    if not query:
+        clean_jobs = [j for j in all_persona_jobs if j.get("gold_decision") == "bid" and not j.get("is_injection")]
+        scam_jobs = [j for j in all_persona_jobs if j.get("is_scam")]
+        inj_jobs = [j for j in all_persona_jobs if j.get("is_injection")]
+        other_jobs = [j for j in all_persona_jobs if j not in clean_jobs[:3] and j not in scam_jobs[:2] and j not in inj_jobs[:2]]
+        raw_jobs = (clean_jobs[:3] + scam_jobs[:1] + inj_jobs[:1] + other_jobs)[:limit]
+    else:
+        raw_jobs = all_persona_jobs[:limit]
     api_store = get_api_store()
 
     enriched = []
@@ -50,7 +59,7 @@ def list_jobs(query: str = "", limit: int = 30, user: dict = Depends(get_current
             "approval_status": (run or {}).get("approval_status"),
         })
 
-    enriched.sort(key=lambda x: (x["fit_score"], -x["risk_score"]), reverse=True)
+    enriched.sort(key=lambda x: (x["recommended_action"] != "pending", x["fit_score"], -x["risk_score"]), reverse=True)
     return {"degraded": False, "jobs": enriched}
 
 
