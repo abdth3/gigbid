@@ -1,0 +1,111 @@
+{
+  "eval_jobs_count": 120,
+  "variants": [
+    {
+      "variant": "v0_naive",
+      "recall_at_5": 0.0,
+      "mrr": 0.058,
+      "ndcg_at_10": 0.166,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 3.4,
+      "gigsim_reply_rate": 0.0,
+      "p95_latency_s": 0.0197,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v1_decomp",
+      "recall_at_5": 0.0,
+      "mrr": 0.059,
+      "ndcg_at_10": 0.169,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 3.4,
+      "gigsim_reply_rate": 0.0,
+      "p95_latency_s": 0.0797,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v2_hybrid",
+      "recall_at_5": 0.008,
+      "mrr": 0.114,
+      "ndcg_at_10": 0.283,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 3.41,
+      "gigsim_reply_rate": 0.005,
+      "p95_latency_s": 0.0391,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v3_rerank",
+      "recall_at_5": 1.0,
+      "mrr": 1.0,
+      "ndcg_at_10": 1.0,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 4.8,
+      "gigsim_reply_rate": 0.65,
+      "p95_latency_s": 0.0258,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v4_outcome",
+      "recall_at_5": 0.767,
+      "mrr": 0.558,
+      "ndcg_at_10": 0.661,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 4.47,
+      "gigsim_reply_rate": 0.498,
+      "p95_latency_s": 0.0274,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v5_multivector",
+      "recall_at_5": 0.708,
+      "mrr": 0.327,
+      "ndcg_at_10": 0.486,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 4.39,
+      "gigsim_reply_rate": 0.46,
+      "p95_latency_s": 0.0252,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v8_corrective",
+      "recall_at_5": 1.0,
+      "mrr": 1.0,
+      "ndcg_at_10": 1.0,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 4.8,
+      "gigsim_reply_rate": 0.65,
+      "p95_latency_s": 0.0257,
+      "cost_per_proposal_usd": 0.0
+    },
+    {
+      "variant": "v9_skill_graph",
+      "recall_at_5": 0.008,
+      "mrr": 0.114,
+      "ndcg_at_10": 0.283,
+      "unsupported_before": 1.0,
+      "unsupported_after": 0.0,
+      "judge_score": 3.41,
+      "gigsim_reply_rate": 0.005,
+      "p95_latency_s": 0.0257,
+      "cost_per_proposal_usd": 0.0
+    }
+  ],
+  "persona_recall_at_5_v4_outcome": {
+    "ai_ml_engineer": 0.575,
+    "fullstack_web_dev": 0.825,
+    "data_analyst": 0.9
+  },
+  "judge_calibration": {
+    "sample_size": 30,
+    "cohens_kappa": 0.841,
+    "agreement_rate": 0.933
+  }
+}

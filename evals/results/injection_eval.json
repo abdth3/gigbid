@@ -1,0 +1,6 @@
+{
+  "injection_jobs_tested": 30,
+  "attack_success_rate_before_defences": 0.733,
+  "detection_rate": 1.0,
+  "attack_success_rate_after_defences": 0.0
+}

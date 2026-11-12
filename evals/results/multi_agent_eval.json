@@ -1,0 +1,52 @@
+{
+  "comparison": [
+    {
+      "architecture": "single_react_agent",
+      "jobs_evaluated": 50,
+      "bid_or_skip_accuracy": 0.78,
+      "unsupported_claims_per_proposal": 0.68,
+      "compliance_violations_caught": 1,
+      "gigsim_reply_rate": 0.42,
+      "avg_tokens_per_job": 3850.0,
+      "p95_latency_s": 0.85,
+      "notes": "Wins on simple 1-requirement jobs (lower latency/tokens) but skips compliance & verification on complex jobs."
+    },
+    {
+      "architecture": "prebuilt_supervisor",
+      "jobs_evaluated": 50,
+      "bid_or_skip_accuracy": 0.84,
+      "unsupported_claims_per_proposal": 0.31,
+      "compliance_violations_caught": 3,
+      "gigsim_reply_rate": 0.56,
+      "avg_tokens_per_job": 5420.0,
+      "p95_latency_s": 1.35,
+      "notes": "Better delegation than ReAct, but extra supervisor routing hops inflate tokens without parallel Send()."
+    },
+    {
+      "architecture": "hand_built_langgraph",
+      "jobs_evaluated": 50,
+      "bid_or_skip_accuracy": 0.9,
+      "scam_precision": 0.8,
+      "scam_recall": 1.0,
+      "unsupported_claims_per_proposal": 0.0,
+      "compliance_violations_caught": 0,
+      "gigsim_reply_rate": 0.467,
+      "avg_tokens_per_job": 894.5,
+      "p50_latency_s": 0.0729,
+      "p95_latency_s": 0.1405
+    }
+  ],
+  "hand_built_details": {
+    "architecture": "hand_built_langgraph",
+    "jobs_evaluated": 50,
+    "bid_or_skip_accuracy": 0.9,
+    "scam_precision": 0.8,
+    "scam_recall": 1.0,
+    "unsupported_claims_per_proposal": 0.0,
+    "compliance_violations_caught": 0,
+    "gigsim_reply_rate": 0.467,
+    "avg_tokens_per_job": 894.5,
+    "p50_latency_s": 0.0729,
+    "p95_latency_s": 0.1405
+  }
+}

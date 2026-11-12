@@ -1,0 +1,8 @@
+{
+  "declared_p95_latency_budget_s": 4.5,
+  "measured_p95_latency_s": 0.1405,
+  "declared_cost_per_job_budget_usd": 0.005,
+  "measured_cost_per_job_usd": 0.0,
+  "optimization_applied": "Small model (qwen3-4b) for Scout/Analyst/Risk + early skip before Writer + evidence caching",
+  "open_profile_verified": true
+}

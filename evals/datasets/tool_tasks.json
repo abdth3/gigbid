@@ -1,0 +1,326 @@
+[
+  {
+    "task_id": "tool-task-01",
+    "instruction": "Execute the appropriate MCP tool for: search_jobs with params {\"query\": \"LangGraph FastAPI\", \"limit\": 5}",
+    "expected_tool": "search_jobs",
+    "expected_args": {
+      "query": "LangGraph FastAPI",
+      "limit": 5
+    }
+  },
+  {
+    "task_id": "tool-task-02",
+    "instruction": "Execute the appropriate MCP tool for: get_job with params {\"job_id\": \"dev-ai_m-001\"}",
+    "expected_tool": "get_job",
+    "expected_args": {
+      "job_id": "dev-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-03",
+    "instruction": "Execute the appropriate MCP tool for: get_client_history with params {\"client_id\": \"client-ai_m-001\"}",
+    "expected_tool": "get_client_history",
+    "expected_args": {
+      "client_id": "client-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-04",
+    "instruction": "Execute the appropriate MCP tool for: get_connects_balance with params {}",
+    "expected_tool": "get_connects_balance",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-05",
+    "instruction": "Execute the appropriate MCP tool for: search_evidence with params {\"requirement\": \"Python scikit-learn churn\", \"k\": 5}",
+    "expected_tool": "search_evidence",
+    "expected_args": {
+      "requirement": "Python scikit-learn churn",
+      "k": 5
+    }
+  },
+  {
+    "task_id": "tool-task-06",
+    "instruction": "Execute the appropriate MCP tool for: get_case_study with params {\"id\": \"ai_ml_engineer-case-01\"}",
+    "expected_tool": "get_case_study",
+    "expected_args": {
+      "id": "ai_ml_engineer-case-01"
+    }
+  },
+  {
+    "task_id": "tool-task-07",
+    "instruction": "Execute the appropriate MCP tool for: list_skills with params {}",
+    "expected_tool": "list_skills",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-08",
+    "instruction": "Execute the appropriate MCP tool for: create_proposal_draft with params {\"job_id\": \"dev-ai_m-001\", \"bid_amount_usd\": 650, \"dry_run\": true}",
+    "expected_tool": "create_proposal_draft",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "bid_amount_usd": 650,
+      "dry_run": true
+    }
+  },
+  {
+    "task_id": "tool-task-09",
+    "instruction": "Execute the appropriate MCP tool for: get_free_slots with params {\"days_ahead\": 3}",
+    "expected_tool": "get_free_slots",
+    "expected_args": {
+      "days_ahead": 3
+    }
+  },
+  {
+    "task_id": "tool-task-10",
+    "instruction": "Execute the appropriate MCP tool for: create_interview_hold with params {\"job_id\": \"dev-ai_m-001\", \"slot\": \"2026-11-14T15:00:00Z\"}",
+    "expected_tool": "create_interview_hold",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "slot": "2026-11-14T15:00:00Z"
+    }
+  },
+  {
+    "task_id": "tool-task-11",
+    "instruction": "Execute the appropriate MCP tool for: search_jobs with params {\"query\": \"LangGraph FastAPI\", \"limit\": 5}",
+    "expected_tool": "search_jobs",
+    "expected_args": {
+      "query": "LangGraph FastAPI",
+      "limit": 5
+    }
+  },
+  {
+    "task_id": "tool-task-12",
+    "instruction": "Execute the appropriate MCP tool for: get_job with params {\"job_id\": \"dev-ai_m-001\"}",
+    "expected_tool": "get_job",
+    "expected_args": {
+      "job_id": "dev-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-13",
+    "instruction": "Execute the appropriate MCP tool for: get_client_history with params {\"client_id\": \"client-ai_m-001\"}",
+    "expected_tool": "get_client_history",
+    "expected_args": {
+      "client_id": "client-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-14",
+    "instruction": "Execute the appropriate MCP tool for: get_connects_balance with params {}",
+    "expected_tool": "get_connects_balance",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-15",
+    "instruction": "Execute the appropriate MCP tool for: search_evidence with params {\"requirement\": \"Python scikit-learn churn\", \"k\": 5}",
+    "expected_tool": "search_evidence",
+    "expected_args": {
+      "requirement": "Python scikit-learn churn",
+      "k": 5
+    }
+  },
+  {
+    "task_id": "tool-task-16",
+    "instruction": "Execute the appropriate MCP tool for: get_case_study with params {\"id\": \"ai_ml_engineer-case-01\"}",
+    "expected_tool": "get_case_study",
+    "expected_args": {
+      "id": "ai_ml_engineer-case-01"
+    }
+  },
+  {
+    "task_id": "tool-task-17",
+    "instruction": "Execute the appropriate MCP tool for: list_skills with params {}",
+    "expected_tool": "list_skills",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-18",
+    "instruction": "Execute the appropriate MCP tool for: create_proposal_draft with params {\"job_id\": \"dev-ai_m-001\", \"bid_amount_usd\": 650, \"dry_run\": true}",
+    "expected_tool": "create_proposal_draft",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "bid_amount_usd": 650,
+      "dry_run": true
+    }
+  },
+  {
+    "task_id": "tool-task-19",
+    "instruction": "Execute the appropriate MCP tool for: get_free_slots with params {\"days_ahead\": 3}",
+    "expected_tool": "get_free_slots",
+    "expected_args": {
+      "days_ahead": 3
+    }
+  },
+  {
+    "task_id": "tool-task-20",
+    "instruction": "Execute the appropriate MCP tool for: create_interview_hold with params {\"job_id\": \"dev-ai_m-001\", \"slot\": \"2026-11-14T15:00:00Z\"}",
+    "expected_tool": "create_interview_hold",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "slot": "2026-11-14T15:00:00Z"
+    }
+  },
+  {
+    "task_id": "tool-task-21",
+    "instruction": "Execute the appropriate MCP tool for: search_jobs with params {\"query\": \"LangGraph FastAPI\", \"limit\": 5}",
+    "expected_tool": "search_jobs",
+    "expected_args": {
+      "query": "LangGraph FastAPI",
+      "limit": 5
+    }
+  },
+  {
+    "task_id": "tool-task-22",
+    "instruction": "Execute the appropriate MCP tool for: get_job with params {\"job_id\": \"dev-ai_m-001\"}",
+    "expected_tool": "get_job",
+    "expected_args": {
+      "job_id": "dev-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-23",
+    "instruction": "Execute the appropriate MCP tool for: get_client_history with params {\"client_id\": \"client-ai_m-001\"}",
+    "expected_tool": "get_client_history",
+    "expected_args": {
+      "client_id": "client-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-24",
+    "instruction": "Execute the appropriate MCP tool for: get_connects_balance with params {}",
+    "expected_tool": "get_connects_balance",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-25",
+    "instruction": "Execute the appropriate MCP tool for: search_evidence with params {\"requirement\": \"Python scikit-learn churn\", \"k\": 5}",
+    "expected_tool": "search_evidence",
+    "expected_args": {
+      "requirement": "Python scikit-learn churn",
+      "k": 5
+    }
+  },
+  {
+    "task_id": "tool-task-26",
+    "instruction": "Execute the appropriate MCP tool for: get_case_study with params {\"id\": \"ai_ml_engineer-case-01\"}",
+    "expected_tool": "get_case_study",
+    "expected_args": {
+      "id": "ai_ml_engineer-case-01"
+    }
+  },
+  {
+    "task_id": "tool-task-27",
+    "instruction": "Execute the appropriate MCP tool for: list_skills with params {}",
+    "expected_tool": "list_skills",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-28",
+    "instruction": "Execute the appropriate MCP tool for: create_proposal_draft with params {\"job_id\": \"dev-ai_m-001\", \"bid_amount_usd\": 650, \"dry_run\": true}",
+    "expected_tool": "create_proposal_draft",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "bid_amount_usd": 650,
+      "dry_run": true
+    }
+  },
+  {
+    "task_id": "tool-task-29",
+    "instruction": "Execute the appropriate MCP tool for: get_free_slots with params {\"days_ahead\": 3}",
+    "expected_tool": "get_free_slots",
+    "expected_args": {
+      "days_ahead": 3
+    }
+  },
+  {
+    "task_id": "tool-task-30",
+    "instruction": "Execute the appropriate MCP tool for: create_interview_hold with params {\"job_id\": \"dev-ai_m-001\", \"slot\": \"2026-11-14T15:00:00Z\"}",
+    "expected_tool": "create_interview_hold",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "slot": "2026-11-14T15:00:00Z"
+    }
+  },
+  {
+    "task_id": "tool-task-31",
+    "instruction": "Execute the appropriate MCP tool for: search_jobs with params {\"query\": \"LangGraph FastAPI\", \"limit\": 5}",
+    "expected_tool": "search_jobs",
+    "expected_args": {
+      "query": "LangGraph FastAPI",
+      "limit": 5
+    }
+  },
+  {
+    "task_id": "tool-task-32",
+    "instruction": "Execute the appropriate MCP tool for: get_job with params {\"job_id\": \"dev-ai_m-001\"}",
+    "expected_tool": "get_job",
+    "expected_args": {
+      "job_id": "dev-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-33",
+    "instruction": "Execute the appropriate MCP tool for: get_client_history with params {\"client_id\": \"client-ai_m-001\"}",
+    "expected_tool": "get_client_history",
+    "expected_args": {
+      "client_id": "client-ai_m-001"
+    }
+  },
+  {
+    "task_id": "tool-task-34",
+    "instruction": "Execute the appropriate MCP tool for: get_connects_balance with params {}",
+    "expected_tool": "get_connects_balance",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-35",
+    "instruction": "Execute the appropriate MCP tool for: search_evidence with params {\"requirement\": \"Python scikit-learn churn\", \"k\": 5}",
+    "expected_tool": "search_evidence",
+    "expected_args": {
+      "requirement": "Python scikit-learn churn",
+      "k": 5
+    }
+  },
+  {
+    "task_id": "tool-task-36",
+    "instruction": "Execute the appropriate MCP tool for: get_case_study with params {\"id\": \"ai_ml_engineer-case-01\"}",
+    "expected_tool": "get_case_study",
+    "expected_args": {
+      "id": "ai_ml_engineer-case-01"
+    }
+  },
+  {
+    "task_id": "tool-task-37",
+    "instruction": "Execute the appropriate MCP tool for: list_skills with params {}",
+    "expected_tool": "list_skills",
+    "expected_args": {}
+  },
+  {
+    "task_id": "tool-task-38",
+    "instruction": "Execute the appropriate MCP tool for: create_proposal_draft with params {\"job_id\": \"dev-ai_m-001\", \"bid_amount_usd\": 650, \"dry_run\": true}",
+    "expected_tool": "create_proposal_draft",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "bid_amount_usd": 650,
+      "dry_run": true
+    }
+  },
+  {
+    "task_id": "tool-task-39",
+    "instruction": "Execute the appropriate MCP tool for: get_free_slots with params {\"days_ahead\": 3}",
+    "expected_tool": "get_free_slots",
+    "expected_args": {
+      "days_ahead": 3
+    }
+  },
+  {
+    "task_id": "tool-task-40",
+    "instruction": "Execute the appropriate MCP tool for: create_interview_hold with params {\"job_id\": \"dev-ai_m-001\", \"slot\": \"2026-11-14T15:00:00Z\"}",
+    "expected_tool": "create_interview_hold",
+    "expected_args": {
+      "job_id": "dev-ai_m-001",
+      "slot": "2026-11-14T15:00:00Z"
+    }
+  }
+]

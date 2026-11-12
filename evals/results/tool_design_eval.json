@@ -1,0 +1,29 @@
+{
+  "task_count": 40,
+  "designs": [
+    {
+      "design": "fine_grained_24_tools",
+      "tool_count": 24,
+      "tool_selection_accuracy": 0.775,
+      "argument_accuracy": 0.8,
+      "avg_tokens_per_task": 640,
+      "notes": "Overlapping fine-grained tools caused confusion between search_jobs_by_skill vs search_jobs_by_budget"
+    },
+    {
+      "design": "coarse_3_tools",
+      "tool_count": 3,
+      "tool_selection_accuracy": 0.925,
+      "argument_accuracy": 0.725,
+      "avg_tokens_per_task": 510,
+      "notes": "Easy to pick tool, but overloaded union arguments caused schema validation errors"
+    },
+    {
+      "design": "curated_14_tools_rewritten_descriptions",
+      "tool_count": 14,
+      "tool_selection_accuracy": 0.975,
+      "argument_accuracy": 0.95,
+      "avg_tokens_per_task": 430,
+      "notes": "Per-agent allowlists + Pydantic constraints + action-oriented descriptions maximized accuracy and cut tokens by 33%"
+    }
+  ]
+}

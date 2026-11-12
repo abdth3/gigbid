@@ -1,0 +1,17 @@
+{
+  "arm_a": {
+    "strategy": "evidence_first",
+    "n": 30,
+    "replies": 16,
+    "reply_rate": 0.533
+  },
+  "arm_b": {
+    "strategy": "outcome_led",
+    "n": 30,
+    "replies": 20,
+    "reply_rate": 0.667
+  },
+  "z_statistic": 1.054,
+  "p_value": 0.2918,
+  "significant_at_0_05": false
+}
