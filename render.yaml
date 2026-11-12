@@ -1,10 +1,12 @@
 services:
   - type: web
     name: gigbid-copilot
-    runtime: python
+    env: python
     plan: free
-    buildCommand: pip install -e . && cd apps/web && npm install && npm run build
-    startCommand: uvicorn apps.api.main:app --host 0.0.0.0 --port $PORT
+    buildCommand: |
+      python -m pip install -e .
+      cd apps/web && npm install && npm run build
+    startCommand: python -m uvicorn apps.api.main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: APP_ENV
         value: production
