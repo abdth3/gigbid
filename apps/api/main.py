@@ -3,7 +3,10 @@
 from __future__ import annotations
 
 from pathlib import Path
+from dotenv import load_dotenv
 from fastapi import FastAPI
+
+load_dotenv()
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 

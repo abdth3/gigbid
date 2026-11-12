@@ -10,6 +10,9 @@ from typing import Any
 
 import httpx
 import yaml
+from dotenv import load_dotenv
+
+load_dotenv()
 
 CONFIG_PATH = Path(__file__).resolve().parent / "config.yaml"
 PROMPTS_DIR = Path(__file__).resolve().parent / "prompts"
@@ -78,12 +81,13 @@ async def call_node_llm(
                     "https://api.groq.com/openai/v1/chat/completions",
                     headers={"Authorization": f"Bearer {groq_key}"},
                     json={
-                        "model": "llama-3.3-70b-versatile" if "32b" in model else "llama-3.1-8b-instant",
+                        "model": model if "/" in model else ("openai/gpt-oss-120b" if "32b" in model else "openai/gpt-oss-20b"),
                         "messages": [
                             {"role": "system", "content": system_prompt},
                             {"role": "user", "content": user_content},
                         ],
                         "temperature": 0.2,
+                        "max_tokens": 500,
                     },
                 )
                 r.raise_for_status()

@@ -76,7 +76,21 @@ async def writer_node(state: dict[str, Any]) -> dict[str, Any]:
         else:
             screening_answers.append("I would start by establishing reproducible baselines and clear evaluation metrics.")
 
-    llm_meta = await call_node_llm("writer", load_prompt("writer"), mask_pii(cover_letter))
+    llm_prompt_input = (
+        f"Job Title: {job_spec.get('title', job.get('title', ''))}\n"
+        f"Strategy: {strategy}\n"
+        f"Style Rules: {style_rules}\n"
+        f"Proposed Bid: ${bid:.0f} USD ({job_spec.get('timeline_days', 14)} days)\n"
+        f"Verified Evidence (cite using [evidence_id]):\n"
+        + "\n".join(f"- [{e['evidence_id']}] {e.get('title')}: {e.get('outcome')}" for e in top_ev)
+        + "\nWrite a concise (<1200 chars), personalized cover letter citing the exact [evidence_id] tags."
+    )
+    llm_meta = await call_node_llm("writer", load_prompt("writer"), mask_pii(llm_prompt_input))
+    if llm_meta.get("text") and len(llm_meta["text"].strip()) > 60:
+        cover_letter = llm_meta["text"].strip()
+        for rule in style_rules:
+            if "passionate" in rule.lower():
+                cover_letter = cover_letter.replace("passionate", "focused")
     draft = ProposalDraft(
         job_id=job["job_id"],
         cover_letter=cover_letter,

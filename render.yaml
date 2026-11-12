@@ -1,0 +1,20 @@
+services:
+  - type: web
+    name: gigbid-copilot
+    env: python
+    plan: free
+    buildCommand: |
+      pip install -e .
+      cd apps/web && npm install && npm run build
+    startCommand: uvicorn apps.api.main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: APP_ENV
+        value: production
+      - key: APP_SECRET_KEY
+        generateValue: true
+      - key: MARKETPLACE_MODE
+        value: gigsim
+      - key: MODEL_PROFILE
+        value: open
+      - key: GROQ_API_KEY
+        sync: false

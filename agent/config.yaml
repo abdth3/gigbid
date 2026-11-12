@@ -11,17 +11,17 @@ models:
   profile: open # open (required) | paid (optional)
   profiles:
     open:
-      provider: local_open # local_open | ollama | groq | openrouter
-      scout: qwen3-4b
-      analyst: qwen3-4b
-      risk_assessor: qwen3-4b
-      fit_matcher: qwen3-4b
-      pricing: qwen3-4b
-      writer: qwen3-32b
-      critic: qwen3-32b
-      compliance: qwen3-4b
-      client_liaison: qwen3-32b
-      fallback_cheap: qwen3-4b
+      provider: groq # local_open | ollama | groq | openrouter
+      scout: openai/gpt-oss-20b
+      analyst: openai/gpt-oss-20b
+      risk_assessor: openai/gpt-oss-20b
+      fit_matcher: openai/gpt-oss-20b
+      pricing: openai/gpt-oss-20b
+      writer: openai/gpt-oss-120b
+      critic: openai/gpt-oss-120b
+      compliance: openai/gpt-oss-20b
+      client_liaison: openai/gpt-oss-120b
+      fallback_cheap: openai/gpt-oss-20b
     paid:
       provider: gemini # gemini | openai
       scout: gemini-2.5-flash-lite
