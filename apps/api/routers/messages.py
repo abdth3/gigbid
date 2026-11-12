@@ -42,6 +42,17 @@ async def draft_reply(job_id: str, user: dict = Depends(get_current_user)):
     graph = build_conversation_graph(checkpointer=checkpointer)
     config = {"configurable": {"thread_id": thread_id}}
 
+    snap = await graph.aget_state(config)
+    if snap and snap.next:
+        vals = snap.values
+        return {
+            "thread_id": thread_id,
+            "client_intent": vals.get("client_intent"),
+            "draft_reply": vals.get("draft_reply"),
+            "proposed_slots": vals.get("proposed_slots", []),
+            "awaiting_approval": True,
+        }
+
     res = await graph.ainvoke(
         {
             "thread_id": thread_id,
@@ -69,6 +80,17 @@ async def approve_reply(req: MessageReplyRequest, user: dict = Depends(get_curre
     checkpointer = await get_async_checkpointer()
     graph = build_conversation_graph(checkpointer=checkpointer)
     config = {"configurable": {"thread_id": thread_id}}
+
+    snap = await graph.aget_state(config)
+    if snap and snap.next:
+        vals = snap.values
+        return {
+            "thread_id": thread_id,
+            "client_intent": vals.get("client_intent"),
+            "draft_reply": vals.get("draft_reply"),
+            "proposed_slots": vals.get("proposed_slots", []),
+            "awaiting_approval": True,
+        }
 
     res = await graph.ainvoke(
         Command(resume={"action": req.action, "edited_reply": req.edited_reply}),
