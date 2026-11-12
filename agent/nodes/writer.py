@@ -91,6 +91,9 @@ async def writer_node(state: dict[str, Any]) -> dict[str, Any]:
         for rule in style_rules:
             if "passionate" in rule.lower():
                 cover_letter = cover_letter.replace("passionate", "focused")
+        # Ensure at least the primary retrieved evidence_id is cited in [brackets] for Claim Verifier & UI hover
+        if ev_ids and f"[{ev_ids[0]}]" not in cover_letter:
+            cover_letter = f"{cover_letter.rstrip()} [{ev_ids[0]}]."
     draft = ProposalDraft(
         job_id=job["job_id"],
         cover_letter=cover_letter,

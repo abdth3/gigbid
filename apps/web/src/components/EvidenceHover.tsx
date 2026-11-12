@@ -43,6 +43,31 @@ export const EvidenceHover: React.FC<Props> = ({ text, evidence }) => {
         })}
       </p>
 
+      {evidence.length > 0 && (
+        <div style={{ marginTop: 10, display: 'flex', gap: 6, flexWrap: 'wrap', alignItems: 'center' }}>
+          <span style={{ fontSize: '0.8em', color: '#94a3b8' }}>Cited Evidence:</span>
+          {evidence.map((ev) => (
+            <button
+              key={ev.evidence_id}
+              type="button"
+              onMouseEnter={() => setActiveEv(ev)}
+              onClick={() => setActiveEv(ev)}
+              style={{
+                background: '#1e293b',
+                color: '#60a5fa',
+                border: '1px solid #334155',
+                padding: '2px 8px',
+                borderRadius: 6,
+                fontSize: '0.78em',
+                cursor: 'pointer',
+              }}
+            >
+              [{ev.evidence_id}] {ev.title}
+            </button>
+          ))}
+        </div>
+      )}
+
       {activeEv && (
         <div
           style={{
