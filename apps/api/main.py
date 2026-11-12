@@ -40,7 +40,18 @@ def health():
     return {"status": "ok", "service": "gigbid-api"}
 
 
-# Serve built React frontend in production/single-host mode if present
+# Serve built React frontend in production/single-host mode with SPA fallback
+from fastapi.responses import FileResponse
+
 WEB_DIST = Path(__file__).resolve().parent.parent / "web" / "dist"
 if WEB_DIST.exists():
-    app.mount("/", StaticFiles(directory=str(WEB_DIST), html=True), name="web")
+    assets_dir = WEB_DIST / "assets"
+    if assets_dir.exists():
+        app.mount("/assets", StaticFiles(directory=str(assets_dir)), name="assets")
+
+    @app.get("/{full_path:path}")
+    def serve_spa(full_path: str):
+        candidate = WEB_DIST / full_path
+        if full_path and candidate.is_file():
+            return FileResponse(str(candidate))
+        return FileResponse(str(WEB_DIST / "index.html"))

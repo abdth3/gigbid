@@ -7,13 +7,19 @@ export const InboxPage: React.FC = () => {
   const [query, setQuery] = useState('');
   const [degraded, setDegraded] = useState(false);
   const [banner, setBanner] = useState('');
+  const [errorMsg, setErrorMsg] = useState('');
   const [busyId, setBusyId] = useState<string | null>(null);
 
   const load = async (q = query) => {
-    const res = await api.listJobs(q);
-    setDegraded(res.degraded);
-    setBanner(res.banner || '');
-    setJobs(res.jobs || []);
+    try {
+      setErrorMsg('');
+      const res = await api.listJobs(q);
+      setDegraded(res.degraded);
+      setBanner(res.banner || '');
+      setJobs(res.jobs || []);
+    } catch (err: any) {
+      setErrorMsg(err?.message || 'Failed to load jobs. Please sign in again on Onboarding.');
+    }
   };
 
   useEffect(() => {
@@ -21,19 +27,30 @@ export const InboxPage: React.FC = () => {
   }, []);
 
   const handleAnalyze = async (jobId: string) => {
-    setBusyId(jobId);
-    const res = await api.analyzeJob(jobId);
-    if (res.degraded) {
-      setDegraded(true);
-      setBanner(res.message);
+    try {
+      setBusyId(jobId);
+      setErrorMsg('');
+      const res = await api.analyzeJob(jobId);
+      if (res.degraded) {
+        setDegraded(true);
+        setBanner(res.message);
+      }
+      await load();
+    } catch (err: any) {
+      setErrorMsg(err?.message || 'Analysis failed.');
+    } finally {
+      setBusyId(null);
     }
-    setBusyId(null);
-    await load();
   };
 
   return (
     <div>
       <h2>Job Inbox</h2>
+      {errorMsg && (
+        <div role="alert" style={{ background: '#7f1d1d', border: '1px solid #ef4444', padding: 12, borderRadius: 8, marginBottom: 14 }}>
+          {errorMsg}
+        </div>
+      )}
       {degraded && (
         <div role="alert" style={{ background: '#7f1d1d', border: '1px solid #ef4444', padding: 12, borderRadius: 8, marginBottom: 14 }}>
           <strong>Degraded Mode:</strong> {banner || 'Marketplace unavailable. Work is queued.'}

@@ -19,8 +19,12 @@ router = APIRouter(prefix="/api/messages", tags=["messages"])
 @router.get("")
 def list_threads(user: dict = Depends(get_current_user)):
     gigsim = get_gigsim_store()
+    api_store = get_api_store()
     threads = []
     for job_id, msgs in gigsim.messages.items():
+        # Scope message threads by tenant (E4)
+        if not api_store.get_run(user["user_id"], job_id):
+            continue
         job = gigsim.get_job(job_id) or {}
         threads.append({
             "job_id": job_id,
